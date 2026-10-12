@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TempoDeUmEvento1061\TempoDeUmEvento1061\bin\Debug\net10.0\TempoDeUmEvento1061.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TempoDeUmEvento1061\TempoDeUmEvento1061\bin\Debug\net10.0\TempoDeUmEvento1061.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TempoDeUmEvento1061\TempoDeUmEvento1061\bin\Debug\net10.0\TempoDeUmEvento1061.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TempoDeUmEvento1061\TempoDeUmEvento1061\bin\Debug\net10.0\TempoDeUmEvento1061.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TempoDeUmEvento1061\TempoDeUmEvento1061\bin\Debug\net10.0\TempoDeUmEvento1061.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TempoDeUmEvento1061\TempoDeUmEvento1061\obj\Debug\net10.0\TempoDeUmEvento1061.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TempoDeUmEvento1061\TempoDeUmEvento1061\obj\Debug\net10.0\TempoDeUmEvento1061.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TempoDeUmEvento1061\TempoDeUmEvento1061\obj\Debug\net10.0\TempoDeUmEvento1061.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TempoDeUmEvento1061\TempoDeUmEvento1061\obj\Debug\net10.0\TempoDeUmEvento1061.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TempoDeUmEvento1061\TempoDeUmEvento1061\obj\Debug\net10.0\TempoDeUmEvento1061.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TempoDeUmEvento1061\TempoDeUmEvento1061\obj\Debug\net10.0\refint\TempoDeUmEvento1061.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TempoDeUmEvento1061\TempoDeUmEvento1061\obj\Debug\net10.0\TempoDeUmEvento1061.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TempoDeUmEvento1061\TempoDeUmEvento1061\obj\Debug\net10.0\TempoDeUmEvento1061.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TempoDeUmEvento1061\TempoDeUmEvento1061\obj\Debug\net10.0\ref\TempoDeUmEvento1061.dll

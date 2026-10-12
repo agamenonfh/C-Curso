@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SeisNumerosImparesURI1070\SeisNumerosImparesURI1070\obj\Debug\net10.0\SeisNumerosImparesURI1070.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SeisNumerosImparesURI1070\SeisNumerosImparesURI1070\obj\Debug\net10.0\SeisNumerosImparesURI1070.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SeisNumerosImparesURI1070\SeisNumerosImparesURI1070\obj\Debug\net10.0\SeisNumerosImparesURI1070.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SeisNumerosImparesURI1070\SeisNumerosImparesURI1070\obj\Debug\net10.0\SeisNumerosImparesURI1070.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SeisNumerosImparesURI1070\SeisNumerosImparesURI1070\bin\Debug\net10.0\SeisNumerosImparesURI1070.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SeisNumerosImparesURI1070\SeisNumerosImparesURI1070\bin\Debug\net10.0\SeisNumerosImparesURI1070.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SeisNumerosImparesURI1070\SeisNumerosImparesURI1070\bin\Debug\net10.0\SeisNumerosImparesURI1070.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SeisNumerosImparesURI1070\SeisNumerosImparesURI1070\bin\Debug\net10.0\SeisNumerosImparesURI1070.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SeisNumerosImparesURI1070\SeisNumerosImparesURI1070\bin\Debug\net10.0\SeisNumerosImparesURI1070.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SeisNumerosImparesURI1070\SeisNumerosImparesURI1070\obj\Debug\net10.0\SeisNumerosImparesURI1070.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SeisNumerosImparesURI1070\SeisNumerosImparesURI1070\obj\Debug\net10.0\refint\SeisNumerosImparesURI1070.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SeisNumerosImparesURI1070\SeisNumerosImparesURI1070\obj\Debug\net10.0\SeisNumerosImparesURI1070.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SeisNumerosImparesURI1070\SeisNumerosImparesURI1070\obj\Debug\net10.0\SeisNumerosImparesURI1070.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SeisNumerosImparesURI1070\SeisNumerosImparesURI1070\obj\Debug\net10.0\ref\SeisNumerosImparesURI1070.dll

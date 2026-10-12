@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AumentoDeSalario1048\AumentoDeSalario1048\bin\Debug\net10.0\AumentoDeSalario1048.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AumentoDeSalario1048\AumentoDeSalario1048\bin\Debug\net10.0\AumentoDeSalario1048.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AumentoDeSalario1048\AumentoDeSalario1048\bin\Debug\net10.0\AumentoDeSalario1048.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AumentoDeSalario1048\AumentoDeSalario1048\bin\Debug\net10.0\AumentoDeSalario1048.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AumentoDeSalario1048\AumentoDeSalario1048\bin\Debug\net10.0\AumentoDeSalario1048.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AumentoDeSalario1048\AumentoDeSalario1048\obj\Debug\net10.0\AumentoDeSalario1048.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AumentoDeSalario1048\AumentoDeSalario1048\obj\Debug\net10.0\AumentoDeSalario1048.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AumentoDeSalario1048\AumentoDeSalario1048\obj\Debug\net10.0\AumentoDeSalario1048.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AumentoDeSalario1048\AumentoDeSalario1048\obj\Debug\net10.0\AumentoDeSalario1048.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AumentoDeSalario1048\AumentoDeSalario1048\obj\Debug\net10.0\AumentoDeSalario1048.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AumentoDeSalario1048\AumentoDeSalario1048\obj\Debug\net10.0\refint\AumentoDeSalario1048.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AumentoDeSalario1048\AumentoDeSalario1048\obj\Debug\net10.0\AumentoDeSalario1048.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AumentoDeSalario1048\AumentoDeSalario1048\obj\Debug\net10.0\AumentoDeSalario1048.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AumentoDeSalario1048\AumentoDeSalario1048\obj\Debug\net10.0\ref\AumentoDeSalario1048.dll

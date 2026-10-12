@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DuracaoDoJogoComMinutosURI1047\DuracaoDoJogoComMinutosURI1047\bin\Debug\net10.0\DuracaoDoJogoComMinutosURI1047.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DuracaoDoJogoComMinutosURI1047\DuracaoDoJogoComMinutosURI1047\bin\Debug\net10.0\DuracaoDoJogoComMinutosURI1047.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DuracaoDoJogoComMinutosURI1047\DuracaoDoJogoComMinutosURI1047\bin\Debug\net10.0\DuracaoDoJogoComMinutosURI1047.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DuracaoDoJogoComMinutosURI1047\DuracaoDoJogoComMinutosURI1047\bin\Debug\net10.0\DuracaoDoJogoComMinutosURI1047.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DuracaoDoJogoComMinutosURI1047\DuracaoDoJogoComMinutosURI1047\bin\Debug\net10.0\DuracaoDoJogoComMinutosURI1047.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DuracaoDoJogoComMinutosURI1047\DuracaoDoJogoComMinutosURI1047\obj\Debug\net10.0\DuracaoDoJogoComMinutosURI1047.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DuracaoDoJogoComMinutosURI1047\DuracaoDoJogoComMinutosURI1047\obj\Debug\net10.0\DuracaoDoJogoComMinutosURI1047.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DuracaoDoJogoComMinutosURI1047\DuracaoDoJogoComMinutosURI1047\obj\Debug\net10.0\DuracaoDoJogoComMinutosURI1047.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DuracaoDoJogoComMinutosURI1047\DuracaoDoJogoComMinutosURI1047\obj\Debug\net10.0\DuracaoDoJogoComMinutosURI1047.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DuracaoDoJogoComMinutosURI1047\DuracaoDoJogoComMinutosURI1047\obj\Debug\net10.0\DuracaoDoJogoComMinutosURI1047.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DuracaoDoJogoComMinutosURI1047\DuracaoDoJogoComMinutosURI1047\obj\Debug\net10.0\refint\DuracaoDoJogoComMinutosURI1047.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DuracaoDoJogoComMinutosURI1047\DuracaoDoJogoComMinutosURI1047\obj\Debug\net10.0\DuracaoDoJogoComMinutosURI1047.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DuracaoDoJogoComMinutosURI1047\DuracaoDoJogoComMinutosURI1047\obj\Debug\net10.0\DuracaoDoJogoComMinutosURI1047.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DuracaoDoJogoComMinutosURI1047\DuracaoDoJogoComMinutosURI1047\obj\Debug\net10.0\ref\DuracaoDoJogoComMinutosURI1047.dll

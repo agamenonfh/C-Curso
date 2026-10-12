@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExperienciasURI1094\ExperienciasURI1094\bin\Debug\net10.0\ExperienciasURI1094.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExperienciasURI1094\ExperienciasURI1094\bin\Debug\net10.0\ExperienciasURI1094.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExperienciasURI1094\ExperienciasURI1094\bin\Debug\net10.0\ExperienciasURI1094.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExperienciasURI1094\ExperienciasURI1094\bin\Debug\net10.0\ExperienciasURI1094.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExperienciasURI1094\ExperienciasURI1094\bin\Debug\net10.0\ExperienciasURI1094.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExperienciasURI1094\ExperienciasURI1094\obj\Debug\net10.0\ExperienciasURI1094.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExperienciasURI1094\ExperienciasURI1094\obj\Debug\net10.0\ExperienciasURI1094.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExperienciasURI1094\ExperienciasURI1094\obj\Debug\net10.0\ExperienciasURI1094.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExperienciasURI1094\ExperienciasURI1094\obj\Debug\net10.0\ExperienciasURI1094.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExperienciasURI1094\ExperienciasURI1094\obj\Debug\net10.0\ExperienciasURI1094.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExperienciasURI1094\ExperienciasURI1094\obj\Debug\net10.0\refint\ExperienciasURI1094.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExperienciasURI1094\ExperienciasURI1094\obj\Debug\net10.0\ExperienciasURI1094.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExperienciasURI1094\ExperienciasURI1094\obj\Debug\net10.0\ExperienciasURI1094.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExperienciasURI1094\ExperienciasURI1094\obj\Debug\net10.0\ref\ExperienciasURI1094.dll

@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EntradaDeDadosEmC#Parte1\EntradaDeDadosEmC#Parte1\bin\Debug\net10.0\EntradaDeDadosEmC#Parte1.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EntradaDeDadosEmC#Parte1\EntradaDeDadosEmC#Parte1\bin\Debug\net10.0\EntradaDeDadosEmC#Parte1.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EntradaDeDadosEmC#Parte1\EntradaDeDadosEmC#Parte1\bin\Debug\net10.0\EntradaDeDadosEmC#Parte1.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EntradaDeDadosEmC#Parte1\EntradaDeDadosEmC#Parte1\bin\Debug\net10.0\EntradaDeDadosEmC#Parte1.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EntradaDeDadosEmC#Parte1\EntradaDeDadosEmC#Parte1\bin\Debug\net10.0\EntradaDeDadosEmC#Parte1.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EntradaDeDadosEmC#Parte1\EntradaDeDadosEmC#Parte1\obj\Debug\net10.0\EntradaDeDadosEmC#Parte1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EntradaDeDadosEmC#Parte1\EntradaDeDadosEmC#Parte1\obj\Debug\net10.0\EntradaDeDadosEmC#Parte1.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EntradaDeDadosEmC#Parte1\EntradaDeDadosEmC#Parte1\obj\Debug\net10.0\EntradaDeDadosEmC#Parte1.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EntradaDeDadosEmC#Parte1\EntradaDeDadosEmC#Parte1\obj\Debug\net10.0\EntradaDeDadosEmC#Parte1.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EntradaDeDadosEmC#Parte1\EntradaDeDadosEmC#Parte1\obj\Debug\net10.0\EntradaDeDadosEmC#Parte1.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EntradaDeDadosEmC#Parte1\EntradaDeDadosEmC#Parte1\obj\Debug\net10.0\refint\EntradaDeDadosEmC#Parte1.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EntradaDeDadosEmC#Parte1\EntradaDeDadosEmC#Parte1\obj\Debug\net10.0\EntradaDeDadosEmC#Parte1.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EntradaDeDadosEmC#Parte1\EntradaDeDadosEmC#Parte1\obj\Debug\net10.0\EntradaDeDadosEmC#Parte1.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EntradaDeDadosEmC#Parte1\EntradaDeDadosEmC#Parte1\obj\Debug\net10.0\ref\EntradaDeDadosEmC#Parte1.dll

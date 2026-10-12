@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agame\\Desktop\\backup notebook huawei\\unidade D\\Agamenon\\C# Curso\\MaiorEPosicaoURI1080\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{816D8DAD-2960-4474-8794-91B70A8A8A48}|MaiorEPosicaoURI1080\\MaiorEPosicaoURI1080.csproj|c:\\users\\agame\\desktop\\backup notebook huawei\\unidade d\\agamenon\\c# curso\\maioreposicaouri1080\\maioreposicaouri1080\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816D8DAD-2960-4474-8794-91B70A8A8A48}|MaiorEPosicaoURI1080\\MaiorEPosicaoURI1080.csproj|solutionrelative:maioreposicaouri1080\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agame\\Desktop\\backup notebook huawei\\unidade D\\Agamenon\\C# Curso\\MaiorEPosicaoURI1080\\MaiorEPosicaoURI1080\\Program.cs",
+              "RelativeDocumentMoniker": "MaiorEPosicaoURI1080\\Program.cs",
+              "ToolTip": "C:\\Users\\agame\\Desktop\\backup notebook huawei\\unidade D\\Agamenon\\C# Curso\\MaiorEPosicaoURI1080\\MaiorEPosicaoURI1080\\Program.cs",
+              "RelativeToolTip": "MaiorEPosicaoURI1080\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T01:33:22.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

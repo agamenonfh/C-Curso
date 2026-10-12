@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agame\\Desktop\\backup notebook huawei\\unidade D\\Agamenon\\C# Curso\\Esfera1011\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C09653-0685-417C-846A-1E30C8F61A52}|Esfera1011\\Esfera1011.csproj|c:\\users\\agame\\desktop\\backup notebook huawei\\unidade d\\agamenon\\c# curso\\esfera1011\\esfera1011\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C09653-0685-417C-846A-1E30C8F61A52}|Esfera1011\\Esfera1011.csproj|solutionrelative:esfera1011\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agame\\Desktop\\backup notebook huawei\\unidade D\\Agamenon\\C# Curso\\Esfera1011\\Esfera1011\\Program.cs",
+              "RelativeDocumentMoniker": "Esfera1011\\Program.cs",
+              "ToolTip": "C:\\Users\\agame\\Desktop\\backup notebook huawei\\unidade D\\Agamenon\\C# Curso\\Esfera1011\\Esfera1011\\Program.cs",
+              "RelativeToolTip": "Esfera1011\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T22:20:15.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

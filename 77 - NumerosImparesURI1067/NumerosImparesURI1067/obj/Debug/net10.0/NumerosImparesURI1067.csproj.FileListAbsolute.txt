@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumerosImparesURI1067\NumerosImparesURI1067\bin\Debug\net10.0\NumerosImparesURI1067.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumerosImparesURI1067\NumerosImparesURI1067\bin\Debug\net10.0\NumerosImparesURI1067.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumerosImparesURI1067\NumerosImparesURI1067\bin\Debug\net10.0\NumerosImparesURI1067.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumerosImparesURI1067\NumerosImparesURI1067\bin\Debug\net10.0\NumerosImparesURI1067.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumerosImparesURI1067\NumerosImparesURI1067\bin\Debug\net10.0\NumerosImparesURI1067.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumerosImparesURI1067\NumerosImparesURI1067\obj\Debug\net10.0\NumerosImparesURI1067.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumerosImparesURI1067\NumerosImparesURI1067\obj\Debug\net10.0\NumerosImparesURI1067.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumerosImparesURI1067\NumerosImparesURI1067\obj\Debug\net10.0\NumerosImparesURI1067.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumerosImparesURI1067\NumerosImparesURI1067\obj\Debug\net10.0\NumerosImparesURI1067.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumerosImparesURI1067\NumerosImparesURI1067\obj\Debug\net10.0\NumerosImparesURI1067.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumerosImparesURI1067\NumerosImparesURI1067\obj\Debug\net10.0\refint\NumerosImparesURI1067.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumerosImparesURI1067\NumerosImparesURI1067\obj\Debug\net10.0\NumerosImparesURI1067.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumerosImparesURI1067\NumerosImparesURI1067\obj\Debug\net10.0\NumerosImparesURI1067.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumerosImparesURI1067\NumerosImparesURI1067\obj\Debug\net10.0\ref\NumerosImparesURI1067.dll

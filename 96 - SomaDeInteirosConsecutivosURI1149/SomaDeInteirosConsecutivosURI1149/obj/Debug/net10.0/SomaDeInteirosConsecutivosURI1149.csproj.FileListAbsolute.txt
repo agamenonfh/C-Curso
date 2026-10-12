@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeInteirosConsecutivosURI1149\SomaDeInteirosConsecutivosURI1149\bin\Debug\net10.0\SomaDeInteirosConsecutivosURI1149.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeInteirosConsecutivosURI1149\SomaDeInteirosConsecutivosURI1149\bin\Debug\net10.0\SomaDeInteirosConsecutivosURI1149.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeInteirosConsecutivosURI1149\SomaDeInteirosConsecutivosURI1149\bin\Debug\net10.0\SomaDeInteirosConsecutivosURI1149.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeInteirosConsecutivosURI1149\SomaDeInteirosConsecutivosURI1149\bin\Debug\net10.0\SomaDeInteirosConsecutivosURI1149.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeInteirosConsecutivosURI1149\SomaDeInteirosConsecutivosURI1149\bin\Debug\net10.0\SomaDeInteirosConsecutivosURI1149.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeInteirosConsecutivosURI1149\SomaDeInteirosConsecutivosURI1149\obj\Debug\net10.0\SomaDeInteirosConsecutivosURI1149.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeInteirosConsecutivosURI1149\SomaDeInteirosConsecutivosURI1149\obj\Debug\net10.0\SomaDeInteirosConsecutivosURI1149.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeInteirosConsecutivosURI1149\SomaDeInteirosConsecutivosURI1149\obj\Debug\net10.0\SomaDeInteirosConsecutivosURI1149.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeInteirosConsecutivosURI1149\SomaDeInteirosConsecutivosURI1149\obj\Debug\net10.0\SomaDeInteirosConsecutivosURI1149.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeInteirosConsecutivosURI1149\SomaDeInteirosConsecutivosURI1149\obj\Debug\net10.0\SomaDeInteirosConsecutivosURI1149.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeInteirosConsecutivosURI1149\SomaDeInteirosConsecutivosURI1149\obj\Debug\net10.0\refint\SomaDeInteirosConsecutivosURI1149.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeInteirosConsecutivosURI1149\SomaDeInteirosConsecutivosURI1149\obj\Debug\net10.0\SomaDeInteirosConsecutivosURI1149.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeInteirosConsecutivosURI1149\SomaDeInteirosConsecutivosURI1149\obj\Debug\net10.0\SomaDeInteirosConsecutivosURI1149.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeInteirosConsecutivosURI1149\SomaDeInteirosConsecutivosURI1149\obj\Debug\net10.0\ref\SomaDeInteirosConsecutivosURI1149.dll

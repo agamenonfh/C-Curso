@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeNumerosImparesURI1074\SomaDeNumerosImparesURI1074\obj\Debug\net10.0\SomaDeNumerosImparesURI1074.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeNumerosImparesURI1074\SomaDeNumerosImparesURI1074\obj\Debug\net10.0\SomaDeNumerosImparesURI1074.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeNumerosImparesURI1074\SomaDeNumerosImparesURI1074\obj\Debug\net10.0\SomaDeNumerosImparesURI1074.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeNumerosImparesURI1074\SomaDeNumerosImparesURI1074\obj\Debug\net10.0\SomaDeNumerosImparesURI1074.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeNumerosImparesURI1074\SomaDeNumerosImparesURI1074\bin\Debug\net10.0\SomaDeNumerosImparesURI1074.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeNumerosImparesURI1074\SomaDeNumerosImparesURI1074\bin\Debug\net10.0\SomaDeNumerosImparesURI1074.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeNumerosImparesURI1074\SomaDeNumerosImparesURI1074\bin\Debug\net10.0\SomaDeNumerosImparesURI1074.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeNumerosImparesURI1074\SomaDeNumerosImparesURI1074\bin\Debug\net10.0\SomaDeNumerosImparesURI1074.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeNumerosImparesURI1074\SomaDeNumerosImparesURI1074\bin\Debug\net10.0\SomaDeNumerosImparesURI1074.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeNumerosImparesURI1074\SomaDeNumerosImparesURI1074\obj\Debug\net10.0\SomaDeNumerosImparesURI1074.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeNumerosImparesURI1074\SomaDeNumerosImparesURI1074\obj\Debug\net10.0\refint\SomaDeNumerosImparesURI1074.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeNumerosImparesURI1074\SomaDeNumerosImparesURI1074\obj\Debug\net10.0\SomaDeNumerosImparesURI1074.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeNumerosImparesURI1074\SomaDeNumerosImparesURI1074\obj\Debug\net10.0\SomaDeNumerosImparesURI1074.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeNumerosImparesURI1074\SomaDeNumerosImparesURI1074\obj\Debug\net10.0\ref\SomaDeNumerosImparesURI1074.dll

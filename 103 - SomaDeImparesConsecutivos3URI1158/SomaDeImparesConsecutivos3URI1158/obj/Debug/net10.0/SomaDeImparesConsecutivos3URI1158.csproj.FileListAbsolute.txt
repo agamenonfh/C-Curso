@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeImparesConsecutivos3URI1158\SomaDeImparesConsecutivos3URI1158\bin\Debug\net10.0\SomaDeImparesConsecutivos3URI1158.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeImparesConsecutivos3URI1158\SomaDeImparesConsecutivos3URI1158\bin\Debug\net10.0\SomaDeImparesConsecutivos3URI1158.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeImparesConsecutivos3URI1158\SomaDeImparesConsecutivos3URI1158\bin\Debug\net10.0\SomaDeImparesConsecutivos3URI1158.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeImparesConsecutivos3URI1158\SomaDeImparesConsecutivos3URI1158\bin\Debug\net10.0\SomaDeImparesConsecutivos3URI1158.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeImparesConsecutivos3URI1158\SomaDeImparesConsecutivos3URI1158\bin\Debug\net10.0\SomaDeImparesConsecutivos3URI1158.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeImparesConsecutivos3URI1158\SomaDeImparesConsecutivos3URI1158\obj\Debug\net10.0\SomaDeImparesConsecutivos3URI1158.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeImparesConsecutivos3URI1158\SomaDeImparesConsecutivos3URI1158\obj\Debug\net10.0\SomaDeImparesConsecutivos3URI1158.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeImparesConsecutivos3URI1158\SomaDeImparesConsecutivos3URI1158\obj\Debug\net10.0\SomaDeImparesConsecutivos3URI1158.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeImparesConsecutivos3URI1158\SomaDeImparesConsecutivos3URI1158\obj\Debug\net10.0\SomaDeImparesConsecutivos3URI1158.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeImparesConsecutivos3URI1158\SomaDeImparesConsecutivos3URI1158\obj\Debug\net10.0\SomaDeImparesConsecutivos3URI1158.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeImparesConsecutivos3URI1158\SomaDeImparesConsecutivos3URI1158\obj\Debug\net10.0\refint\SomaDeImparesConsecutivos3URI1158.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeImparesConsecutivos3URI1158\SomaDeImparesConsecutivos3URI1158\obj\Debug\net10.0\SomaDeImparesConsecutivos3URI1158.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeImparesConsecutivos3URI1158\SomaDeImparesConsecutivos3URI1158\obj\Debug\net10.0\SomaDeImparesConsecutivos3URI1158.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeImparesConsecutivos3URI1158\SomaDeImparesConsecutivos3URI1158\obj\Debug\net10.0\ref\SomaDeImparesConsecutivos3URI1158.dll

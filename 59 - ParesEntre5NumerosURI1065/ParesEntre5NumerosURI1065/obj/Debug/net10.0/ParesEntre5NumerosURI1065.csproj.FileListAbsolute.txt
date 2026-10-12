@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ParesEntre5NumerosURI1065\ParesEntre5NumerosURI1065\bin\Debug\net10.0\ParesEntre5NumerosURI1065.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ParesEntre5NumerosURI1065\ParesEntre5NumerosURI1065\bin\Debug\net10.0\ParesEntre5NumerosURI1065.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ParesEntre5NumerosURI1065\ParesEntre5NumerosURI1065\bin\Debug\net10.0\ParesEntre5NumerosURI1065.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ParesEntre5NumerosURI1065\ParesEntre5NumerosURI1065\bin\Debug\net10.0\ParesEntre5NumerosURI1065.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ParesEntre5NumerosURI1065\ParesEntre5NumerosURI1065\bin\Debug\net10.0\ParesEntre5NumerosURI1065.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ParesEntre5NumerosURI1065\ParesEntre5NumerosURI1065\obj\Debug\net10.0\ParesEntre5NumerosURI1065.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ParesEntre5NumerosURI1065\ParesEntre5NumerosURI1065\obj\Debug\net10.0\ParesEntre5NumerosURI1065.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ParesEntre5NumerosURI1065\ParesEntre5NumerosURI1065\obj\Debug\net10.0\ParesEntre5NumerosURI1065.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ParesEntre5NumerosURI1065\ParesEntre5NumerosURI1065\obj\Debug\net10.0\ParesEntre5NumerosURI1065.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ParesEntre5NumerosURI1065\ParesEntre5NumerosURI1065\obj\Debug\net10.0\ParesEntre5NumerosURI1065.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ParesEntre5NumerosURI1065\ParesEntre5NumerosURI1065\obj\Debug\net10.0\refint\ParesEntre5NumerosURI1065.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ParesEntre5NumerosURI1065\ParesEntre5NumerosURI1065\obj\Debug\net10.0\ParesEntre5NumerosURI1065.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ParesEntre5NumerosURI1065\ParesEntre5NumerosURI1065\obj\Debug\net10.0\ParesEntre5NumerosURI1065.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ParesEntre5NumerosURI1065\ParesEntre5NumerosURI1065\obj\Debug\net10.0\ref\ParesEntre5NumerosURI1065.dll

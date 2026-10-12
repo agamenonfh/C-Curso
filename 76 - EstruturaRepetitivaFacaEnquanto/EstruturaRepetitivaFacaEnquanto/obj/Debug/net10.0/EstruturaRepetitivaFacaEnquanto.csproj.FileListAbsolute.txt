@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EstruturaRepetitivaFacaEnquanto\EstruturaRepetitivaFacaEnquanto\bin\Debug\net10.0\EstruturaRepetitivaFacaEnquanto.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EstruturaRepetitivaFacaEnquanto\EstruturaRepetitivaFacaEnquanto\bin\Debug\net10.0\EstruturaRepetitivaFacaEnquanto.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EstruturaRepetitivaFacaEnquanto\EstruturaRepetitivaFacaEnquanto\bin\Debug\net10.0\EstruturaRepetitivaFacaEnquanto.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EstruturaRepetitivaFacaEnquanto\EstruturaRepetitivaFacaEnquanto\bin\Debug\net10.0\EstruturaRepetitivaFacaEnquanto.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EstruturaRepetitivaFacaEnquanto\EstruturaRepetitivaFacaEnquanto\bin\Debug\net10.0\EstruturaRepetitivaFacaEnquanto.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EstruturaRepetitivaFacaEnquanto\EstruturaRepetitivaFacaEnquanto\obj\Debug\net10.0\EstruturaRepetitivaFacaEnquanto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EstruturaRepetitivaFacaEnquanto\EstruturaRepetitivaFacaEnquanto\obj\Debug\net10.0\EstruturaRepetitivaFacaEnquanto.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EstruturaRepetitivaFacaEnquanto\EstruturaRepetitivaFacaEnquanto\obj\Debug\net10.0\EstruturaRepetitivaFacaEnquanto.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EstruturaRepetitivaFacaEnquanto\EstruturaRepetitivaFacaEnquanto\obj\Debug\net10.0\EstruturaRepetitivaFacaEnquanto.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EstruturaRepetitivaFacaEnquanto\EstruturaRepetitivaFacaEnquanto\obj\Debug\net10.0\EstruturaRepetitivaFacaEnquanto.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EstruturaRepetitivaFacaEnquanto\EstruturaRepetitivaFacaEnquanto\obj\Debug\net10.0\refint\EstruturaRepetitivaFacaEnquanto.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EstruturaRepetitivaFacaEnquanto\EstruturaRepetitivaFacaEnquanto\obj\Debug\net10.0\EstruturaRepetitivaFacaEnquanto.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EstruturaRepetitivaFacaEnquanto\EstruturaRepetitivaFacaEnquanto\obj\Debug\net10.0\EstruturaRepetitivaFacaEnquanto.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EstruturaRepetitivaFacaEnquanto\EstruturaRepetitivaFacaEnquanto\obj\Debug\net10.0\ref\EstruturaRepetitivaFacaEnquanto.dll

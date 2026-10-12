@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agame\\Desktop\\backup notebook huawei\\unidade D\\Agamenon\\C# Curso\\Exerc\u00EDcioDeFixa\u00E7\u00E3oSe\u00E7\u00E3o319\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84CB8FB1-FF9A-4E8C-A1BD-21AAB86B4C5B}|Exerc\u00EDcioDeFixa\u00E7\u00E3oSe\u00E7\u00E3o319\\Exerc\u00EDcioDeFixa\u00E7\u00E3oSe\u00E7\u00E3o319.csproj|c:\\users\\agame\\desktop\\backup notebook huawei\\unidade d\\agamenon\\c# curso\\exerc\u00EDciodefixa\u00E7\u00E3ose\u00E7\u00E3o319\\exerc\u00EDciodefixa\u00E7\u00E3ose\u00E7\u00E3o319\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84CB8FB1-FF9A-4E8C-A1BD-21AAB86B4C5B}|Exerc\u00EDcioDeFixa\u00E7\u00E3oSe\u00E7\u00E3o319\\Exerc\u00EDcioDeFixa\u00E7\u00E3oSe\u00E7\u00E3o319.csproj|solutionrelative:exerc\u00EDciodefixa\u00E7\u00E3ose\u00E7\u00E3o319\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agame\\Desktop\\backup notebook huawei\\unidade D\\Agamenon\\C# Curso\\Exerc\u00EDcioDeFixa\u00E7\u00E3oSe\u00E7\u00E3o319\\Exerc\u00EDcioDeFixa\u00E7\u00E3oSe\u00E7\u00E3o319\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcioDeFixa\u00E7\u00E3oSe\u00E7\u00E3o319\\Program.cs",
+              "ToolTip": "C:\\Users\\agame\\Desktop\\backup notebook huawei\\unidade D\\Agamenon\\C# Curso\\Exerc\u00EDcioDeFixa\u00E7\u00E3oSe\u00E7\u00E3o319\\Exerc\u00EDcioDeFixa\u00E7\u00E3oSe\u00E7\u00E3o319\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcioDeFixa\u00E7\u00E3oSe\u00E7\u00E3o319\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAewBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T17:09:23.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

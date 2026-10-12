@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FatorialSimplesURI1153\FatorialSimplesURI1153\bin\Debug\net10.0\FatorialSimplesURI1153.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FatorialSimplesURI1153\FatorialSimplesURI1153\bin\Debug\net10.0\FatorialSimplesURI1153.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FatorialSimplesURI1153\FatorialSimplesURI1153\bin\Debug\net10.0\FatorialSimplesURI1153.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FatorialSimplesURI1153\FatorialSimplesURI1153\bin\Debug\net10.0\FatorialSimplesURI1153.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FatorialSimplesURI1153\FatorialSimplesURI1153\bin\Debug\net10.0\FatorialSimplesURI1153.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FatorialSimplesURI1153\FatorialSimplesURI1153\obj\Debug\net10.0\FatorialSimplesURI1153.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FatorialSimplesURI1153\FatorialSimplesURI1153\obj\Debug\net10.0\FatorialSimplesURI1153.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FatorialSimplesURI1153\FatorialSimplesURI1153\obj\Debug\net10.0\FatorialSimplesURI1153.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FatorialSimplesURI1153\FatorialSimplesURI1153\obj\Debug\net10.0\FatorialSimplesURI1153.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FatorialSimplesURI1153\FatorialSimplesURI1153\obj\Debug\net10.0\FatorialSimplesURI1153.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FatorialSimplesURI1153\FatorialSimplesURI1153\obj\Debug\net10.0\refint\FatorialSimplesURI1153.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FatorialSimplesURI1153\FatorialSimplesURI1153\obj\Debug\net10.0\FatorialSimplesURI1153.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FatorialSimplesURI1153\FatorialSimplesURI1153\obj\Debug\net10.0\FatorialSimplesURI1153.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FatorialSimplesURI1153\FatorialSimplesURI1153\obj\Debug\net10.0\ref\FatorialSimplesURI1153.dll

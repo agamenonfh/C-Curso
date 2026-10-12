@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AnimalURI1049\AnimalURI1049\obj\Debug\net10.0\AnimalURI1049.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AnimalURI1049\AnimalURI1049\obj\Debug\net10.0\AnimalURI1049.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AnimalURI1049\AnimalURI1049\obj\Debug\net10.0\AnimalURI1049.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AnimalURI1049\AnimalURI1049\obj\Debug\net10.0\AnimalURI1049.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AnimalURI1049\AnimalURI1049\bin\Debug\net10.0\AnimalURI1049.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AnimalURI1049\AnimalURI1049\bin\Debug\net10.0\AnimalURI1049.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AnimalURI1049\AnimalURI1049\bin\Debug\net10.0\AnimalURI1049.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AnimalURI1049\AnimalURI1049\bin\Debug\net10.0\AnimalURI1049.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AnimalURI1049\AnimalURI1049\bin\Debug\net10.0\AnimalURI1049.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AnimalURI1049\AnimalURI1049\obj\Debug\net10.0\AnimalURI1049.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AnimalURI1049\AnimalURI1049\obj\Debug\net10.0\refint\AnimalURI1049.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AnimalURI1049\AnimalURI1049\obj\Debug\net10.0\AnimalURI1049.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AnimalURI1049\AnimalURI1049\obj\Debug\net10.0\AnimalURI1049.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AnimalURI1049\AnimalURI1049\obj\Debug\net10.0\ref\AnimalURI1049.dll

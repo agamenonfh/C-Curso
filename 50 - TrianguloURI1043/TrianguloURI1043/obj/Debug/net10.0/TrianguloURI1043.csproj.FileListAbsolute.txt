@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TrianguloURI1043\TrianguloURI1043\bin\Debug\net10.0\TrianguloURI1043.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TrianguloURI1043\TrianguloURI1043\bin\Debug\net10.0\TrianguloURI1043.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TrianguloURI1043\TrianguloURI1043\bin\Debug\net10.0\TrianguloURI1043.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TrianguloURI1043\TrianguloURI1043\bin\Debug\net10.0\TrianguloURI1043.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TrianguloURI1043\TrianguloURI1043\bin\Debug\net10.0\TrianguloURI1043.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TrianguloURI1043\TrianguloURI1043\obj\Debug\net10.0\TrianguloURI1043.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TrianguloURI1043\TrianguloURI1043\obj\Debug\net10.0\TrianguloURI1043.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TrianguloURI1043\TrianguloURI1043\obj\Debug\net10.0\TrianguloURI1043.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TrianguloURI1043\TrianguloURI1043\obj\Debug\net10.0\TrianguloURI1043.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TrianguloURI1043\TrianguloURI1043\obj\Debug\net10.0\TrianguloURI1043.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TrianguloURI1043\TrianguloURI1043\obj\Debug\net10.0\refint\TrianguloURI1043.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TrianguloURI1043\TrianguloURI1043\obj\Debug\net10.0\TrianguloURI1043.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TrianguloURI1043\TrianguloURI1043\obj\Debug\net10.0\TrianguloURI1043.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TrianguloURI1043\TrianguloURI1043\obj\Debug\net10.0\ref\TrianguloURI1043.dll

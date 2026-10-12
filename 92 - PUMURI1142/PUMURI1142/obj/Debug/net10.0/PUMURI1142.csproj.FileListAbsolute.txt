@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\PUMURI1142\PUMURI1142\bin\Debug\net10.0\PUMURI1142.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\PUMURI1142\PUMURI1142\bin\Debug\net10.0\PUMURI1142.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\PUMURI1142\PUMURI1142\bin\Debug\net10.0\PUMURI1142.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\PUMURI1142\PUMURI1142\bin\Debug\net10.0\PUMURI1142.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\PUMURI1142\PUMURI1142\bin\Debug\net10.0\PUMURI1142.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\PUMURI1142\PUMURI1142\obj\Debug\net10.0\PUMURI1142.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\PUMURI1142\PUMURI1142\obj\Debug\net10.0\PUMURI1142.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\PUMURI1142\PUMURI1142\obj\Debug\net10.0\PUMURI1142.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\PUMURI1142\PUMURI1142\obj\Debug\net10.0\PUMURI1142.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\PUMURI1142\PUMURI1142\obj\Debug\net10.0\PUMURI1142.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\PUMURI1142\PUMURI1142\obj\Debug\net10.0\refint\PUMURI1142.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\PUMURI1142\PUMURI1142\obj\Debug\net10.0\PUMURI1142.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\PUMURI1142\PUMURI1142\obj\Debug\net10.0\PUMURI1142.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\PUMURI1142\PUMURI1142\obj\Debug\net10.0\ref\PUMURI1142.dll

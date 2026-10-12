@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\IdadeEmDias1020\IdadeEmDias1020\bin\Debug\net10.0\IdadeEmDias1020.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\IdadeEmDias1020\IdadeEmDias1020\bin\Debug\net10.0\IdadeEmDias1020.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\IdadeEmDias1020\IdadeEmDias1020\bin\Debug\net10.0\IdadeEmDias1020.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\IdadeEmDias1020\IdadeEmDias1020\bin\Debug\net10.0\IdadeEmDias1020.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\IdadeEmDias1020\IdadeEmDias1020\bin\Debug\net10.0\IdadeEmDias1020.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\IdadeEmDias1020\IdadeEmDias1020\obj\Debug\net10.0\IdadeEmDias1020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\IdadeEmDias1020\IdadeEmDias1020\obj\Debug\net10.0\IdadeEmDias1020.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\IdadeEmDias1020\IdadeEmDias1020\obj\Debug\net10.0\IdadeEmDias1020.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\IdadeEmDias1020\IdadeEmDias1020\obj\Debug\net10.0\IdadeEmDias1020.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\IdadeEmDias1020\IdadeEmDias1020\obj\Debug\net10.0\IdadeEmDias1020.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\IdadeEmDias1020\IdadeEmDias1020\obj\Debug\net10.0\refint\IdadeEmDias1020.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\IdadeEmDias1020\IdadeEmDias1020\obj\Debug\net10.0\IdadeEmDias1020.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\IdadeEmDias1020\IdadeEmDias1020\obj\Debug\net10.0\IdadeEmDias1020.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\IdadeEmDias1020\IdadeEmDias1020\obj\Debug\net10.0\ref\IdadeEmDias1020.dll

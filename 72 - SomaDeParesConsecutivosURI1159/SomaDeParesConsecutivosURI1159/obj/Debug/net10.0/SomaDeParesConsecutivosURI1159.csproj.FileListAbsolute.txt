@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeParesConsecutivosURI1159\SomaDeParesConsecutivosURI1159\bin\Debug\net10.0\SomaDeParesConsecutivosURI1159.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeParesConsecutivosURI1159\SomaDeParesConsecutivosURI1159\bin\Debug\net10.0\SomaDeParesConsecutivosURI1159.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeParesConsecutivosURI1159\SomaDeParesConsecutivosURI1159\bin\Debug\net10.0\SomaDeParesConsecutivosURI1159.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeParesConsecutivosURI1159\SomaDeParesConsecutivosURI1159\bin\Debug\net10.0\SomaDeParesConsecutivosURI1159.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeParesConsecutivosURI1159\SomaDeParesConsecutivosURI1159\bin\Debug\net10.0\SomaDeParesConsecutivosURI1159.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeParesConsecutivosURI1159\SomaDeParesConsecutivosURI1159\obj\Debug\net10.0\SomaDeParesConsecutivosURI1159.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeParesConsecutivosURI1159\SomaDeParesConsecutivosURI1159\obj\Debug\net10.0\SomaDeParesConsecutivosURI1159.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeParesConsecutivosURI1159\SomaDeParesConsecutivosURI1159\obj\Debug\net10.0\SomaDeParesConsecutivosURI1159.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeParesConsecutivosURI1159\SomaDeParesConsecutivosURI1159\obj\Debug\net10.0\SomaDeParesConsecutivosURI1159.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeParesConsecutivosURI1159\SomaDeParesConsecutivosURI1159\obj\Debug\net10.0\SomaDeParesConsecutivosURI1159.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeParesConsecutivosURI1159\SomaDeParesConsecutivosURI1159\obj\Debug\net10.0\refint\SomaDeParesConsecutivosURI1159.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeParesConsecutivosURI1159\SomaDeParesConsecutivosURI1159\obj\Debug\net10.0\SomaDeParesConsecutivosURI1159.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeParesConsecutivosURI1159\SomaDeParesConsecutivosURI1159\obj\Debug\net10.0\SomaDeParesConsecutivosURI1159.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaDeParesConsecutivosURI1159\SomaDeParesConsecutivosURI1159\obj\Debug\net10.0\ref\SomaDeParesConsecutivosURI1159.dll

@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaSURI1155\SequenciaSURI1155\bin\Debug\net10.0\SequenciaSURI1155.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaSURI1155\SequenciaSURI1155\bin\Debug\net10.0\SequenciaSURI1155.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaSURI1155\SequenciaSURI1155\bin\Debug\net10.0\SequenciaSURI1155.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaSURI1155\SequenciaSURI1155\bin\Debug\net10.0\SequenciaSURI1155.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaSURI1155\SequenciaSURI1155\bin\Debug\net10.0\SequenciaSURI1155.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaSURI1155\SequenciaSURI1155\obj\Debug\net10.0\SequenciaSURI1155.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaSURI1155\SequenciaSURI1155\obj\Debug\net10.0\SequenciaSURI1155.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaSURI1155\SequenciaSURI1155\obj\Debug\net10.0\SequenciaSURI1155.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaSURI1155\SequenciaSURI1155\obj\Debug\net10.0\SequenciaSURI1155.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaSURI1155\SequenciaSURI1155\obj\Debug\net10.0\SequenciaSURI1155.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaSURI1155\SequenciaSURI1155\obj\Debug\net10.0\refint\SequenciaSURI1155.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaSURI1155\SequenciaSURI1155\obj\Debug\net10.0\SequenciaSURI1155.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaSURI1155\SequenciaSURI1155\obj\Debug\net10.0\SequenciaSURI1155.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaSURI1155\SequenciaSURI1155\obj\Debug\net10.0\ref\SequenciaSURI1155.dll

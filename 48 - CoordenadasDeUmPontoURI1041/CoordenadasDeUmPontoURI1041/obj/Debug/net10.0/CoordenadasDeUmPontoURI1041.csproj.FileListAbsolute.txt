@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CoordenadasDeUmPontoURI1041\CoordenadasDeUmPontoURI1041\bin\Debug\net10.0\CoordenadasDeUmPontoURI1041.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CoordenadasDeUmPontoURI1041\CoordenadasDeUmPontoURI1041\bin\Debug\net10.0\CoordenadasDeUmPontoURI1041.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CoordenadasDeUmPontoURI1041\CoordenadasDeUmPontoURI1041\bin\Debug\net10.0\CoordenadasDeUmPontoURI1041.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CoordenadasDeUmPontoURI1041\CoordenadasDeUmPontoURI1041\bin\Debug\net10.0\CoordenadasDeUmPontoURI1041.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CoordenadasDeUmPontoURI1041\CoordenadasDeUmPontoURI1041\bin\Debug\net10.0\CoordenadasDeUmPontoURI1041.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CoordenadasDeUmPontoURI1041\CoordenadasDeUmPontoURI1041\obj\Debug\net10.0\CoordenadasDeUmPontoURI1041.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CoordenadasDeUmPontoURI1041\CoordenadasDeUmPontoURI1041\obj\Debug\net10.0\CoordenadasDeUmPontoURI1041.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CoordenadasDeUmPontoURI1041\CoordenadasDeUmPontoURI1041\obj\Debug\net10.0\CoordenadasDeUmPontoURI1041.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CoordenadasDeUmPontoURI1041\CoordenadasDeUmPontoURI1041\obj\Debug\net10.0\CoordenadasDeUmPontoURI1041.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CoordenadasDeUmPontoURI1041\CoordenadasDeUmPontoURI1041\obj\Debug\net10.0\CoordenadasDeUmPontoURI1041.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CoordenadasDeUmPontoURI1041\CoordenadasDeUmPontoURI1041\obj\Debug\net10.0\refint\CoordenadasDeUmPontoURI1041.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CoordenadasDeUmPontoURI1041\CoordenadasDeUmPontoURI1041\obj\Debug\net10.0\CoordenadasDeUmPontoURI1041.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CoordenadasDeUmPontoURI1041\CoordenadasDeUmPontoURI1041\obj\Debug\net10.0\CoordenadasDeUmPontoURI1041.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CoordenadasDeUmPontoURI1041\CoordenadasDeUmPontoURI1041\obj\Debug\net10.0\ref\CoordenadasDeUmPontoURI1041.dll

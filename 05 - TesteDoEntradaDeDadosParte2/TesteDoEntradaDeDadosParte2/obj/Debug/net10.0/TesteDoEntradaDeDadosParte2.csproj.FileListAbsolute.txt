@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TesteDoEntradaDeDadosParte2\TesteDoEntradaDeDadosParte2\bin\Debug\net10.0\TesteDoEntradaDeDadosParte2.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TesteDoEntradaDeDadosParte2\TesteDoEntradaDeDadosParte2\bin\Debug\net10.0\TesteDoEntradaDeDadosParte2.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TesteDoEntradaDeDadosParte2\TesteDoEntradaDeDadosParte2\bin\Debug\net10.0\TesteDoEntradaDeDadosParte2.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TesteDoEntradaDeDadosParte2\TesteDoEntradaDeDadosParte2\bin\Debug\net10.0\TesteDoEntradaDeDadosParte2.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TesteDoEntradaDeDadosParte2\TesteDoEntradaDeDadosParte2\bin\Debug\net10.0\TesteDoEntradaDeDadosParte2.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TesteDoEntradaDeDadosParte2\TesteDoEntradaDeDadosParte2\obj\Debug\net10.0\TesteDoEntradaDeDadosParte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TesteDoEntradaDeDadosParte2\TesteDoEntradaDeDadosParte2\obj\Debug\net10.0\TesteDoEntradaDeDadosParte2.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TesteDoEntradaDeDadosParte2\TesteDoEntradaDeDadosParte2\obj\Debug\net10.0\TesteDoEntradaDeDadosParte2.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TesteDoEntradaDeDadosParte2\TesteDoEntradaDeDadosParte2\obj\Debug\net10.0\TesteDoEntradaDeDadosParte2.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TesteDoEntradaDeDadosParte2\TesteDoEntradaDeDadosParte2\obj\Debug\net10.0\TesteDoEntradaDeDadosParte2.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TesteDoEntradaDeDadosParte2\TesteDoEntradaDeDadosParte2\obj\Debug\net10.0\refint\TesteDoEntradaDeDadosParte2.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TesteDoEntradaDeDadosParte2\TesteDoEntradaDeDadosParte2\obj\Debug\net10.0\TesteDoEntradaDeDadosParte2.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TesteDoEntradaDeDadosParte2\TesteDoEntradaDeDadosParte2\obj\Debug\net10.0\TesteDoEntradaDeDadosParte2.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TesteDoEntradaDeDadosParte2\TesteDoEntradaDeDadosParte2\obj\Debug\net10.0\ref\TesteDoEntradaDeDadosParte2.dll

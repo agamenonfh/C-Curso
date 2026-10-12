@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Múltiplos1044\Múltiplos1044\bin\Debug\net10.0\Múltiplos1044.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Múltiplos1044\Múltiplos1044\bin\Debug\net10.0\Múltiplos1044.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Múltiplos1044\Múltiplos1044\bin\Debug\net10.0\Múltiplos1044.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Múltiplos1044\Múltiplos1044\bin\Debug\net10.0\Múltiplos1044.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Múltiplos1044\Múltiplos1044\bin\Debug\net10.0\Múltiplos1044.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Múltiplos1044\Múltiplos1044\obj\Debug\net10.0\Múltiplos1044.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Múltiplos1044\Múltiplos1044\obj\Debug\net10.0\Múltiplos1044.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Múltiplos1044\Múltiplos1044\obj\Debug\net10.0\Múltiplos1044.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Múltiplos1044\Múltiplos1044\obj\Debug\net10.0\Múltiplos1044.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Múltiplos1044\Múltiplos1044\obj\Debug\net10.0\Múltiplos1044.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Múltiplos1044\Múltiplos1044\obj\Debug\net10.0\refint\Múltiplos1044.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Múltiplos1044\Múltiplos1044\obj\Debug\net10.0\Múltiplos1044.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Múltiplos1044\Múltiplos1044\obj\Debug\net10.0\Múltiplos1044.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Múltiplos1044\Múltiplos1044\obj\Debug\net10.0\ref\Múltiplos1044.dll

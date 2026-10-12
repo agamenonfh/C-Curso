@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\IdadesURI1154\IdadesURI1154\bin\Debug\net10.0\IdadesURI1154.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\IdadesURI1154\IdadesURI1154\bin\Debug\net10.0\IdadesURI1154.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\IdadesURI1154\IdadesURI1154\bin\Debug\net10.0\IdadesURI1154.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\IdadesURI1154\IdadesURI1154\bin\Debug\net10.0\IdadesURI1154.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\IdadesURI1154\IdadesURI1154\bin\Debug\net10.0\IdadesURI1154.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\IdadesURI1154\IdadesURI1154\obj\Debug\net10.0\IdadesURI1154.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\IdadesURI1154\IdadesURI1154\obj\Debug\net10.0\IdadesURI1154.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\IdadesURI1154\IdadesURI1154\obj\Debug\net10.0\IdadesURI1154.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\IdadesURI1154\IdadesURI1154\obj\Debug\net10.0\IdadesURI1154.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\IdadesURI1154\IdadesURI1154\obj\Debug\net10.0\IdadesURI1154.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\IdadesURI1154\IdadesURI1154\obj\Debug\net10.0\refint\IdadesURI1154.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\IdadesURI1154\IdadesURI1154\obj\Debug\net10.0\IdadesURI1154.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\IdadesURI1154\IdadesURI1154\obj\Debug\net10.0\IdadesURI1154.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\IdadesURI1154\IdadesURI1154\obj\Debug\net10.0\ref\IdadesURI1154.dll

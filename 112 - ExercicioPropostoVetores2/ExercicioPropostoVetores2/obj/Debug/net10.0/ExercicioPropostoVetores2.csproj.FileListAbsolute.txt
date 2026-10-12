@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioPropostoVetores2\ExercicioPropostoVetores2\obj\Debug\net10.0\ExercicioPropostoVetores2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioPropostoVetores2\ExercicioPropostoVetores2\obj\Debug\net10.0\ExercicioPropostoVetores2.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioPropostoVetores2\ExercicioPropostoVetores2\obj\Debug\net10.0\ExercicioPropostoVetores2.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioPropostoVetores2\ExercicioPropostoVetores2\obj\Debug\net10.0\ExercicioPropostoVetores2.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioPropostoVetores2\ExercicioPropostoVetores2\bin\Debug\net10.0\ExercicioPropostoVetores2.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioPropostoVetores2\ExercicioPropostoVetores2\bin\Debug\net10.0\ExercicioPropostoVetores2.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioPropostoVetores2\ExercicioPropostoVetores2\bin\Debug\net10.0\ExercicioPropostoVetores2.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioPropostoVetores2\ExercicioPropostoVetores2\bin\Debug\net10.0\ExercicioPropostoVetores2.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioPropostoVetores2\ExercicioPropostoVetores2\bin\Debug\net10.0\ExercicioPropostoVetores2.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioPropostoVetores2\ExercicioPropostoVetores2\obj\Debug\net10.0\ExercicioPropostoVetores2.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioPropostoVetores2\ExercicioPropostoVetores2\obj\Debug\net10.0\refint\ExercicioPropostoVetores2.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioPropostoVetores2\ExercicioPropostoVetores2\obj\Debug\net10.0\ExercicioPropostoVetores2.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioPropostoVetores2\ExercicioPropostoVetores2\obj\Debug\net10.0\ExercicioPropostoVetores2.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioPropostoVetores2\ExercicioPropostoVetores2\obj\Debug\net10.0\ref\ExercicioPropostoVetores2.dll

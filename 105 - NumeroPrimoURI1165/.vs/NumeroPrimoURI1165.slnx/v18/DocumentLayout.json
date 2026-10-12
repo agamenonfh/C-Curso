@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agame\\Desktop\\backup notebook huawei\\unidade D\\Agamenon\\C# Curso\\NumeroPrimoURI1165\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF13AD9-6EDF-66F5-4BA5-DC4A41CCAB03}|NumeroPrimoURI1165\\NumeroPrimoURI1165.csproj|c:\\users\\agame\\desktop\\backup notebook huawei\\unidade d\\agamenon\\c# curso\\numeroprimouri1165\\numeroprimouri1165\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF13AD9-6EDF-66F5-4BA5-DC4A41CCAB03}|NumeroPrimoURI1165\\NumeroPrimoURI1165.csproj|solutionrelative:numeroprimouri1165\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608CB347-02AB-4E1F-B69B-100B73C7BE77}|NewFolder1{608CB347-02AB-4E1F-B69B-100B73C7BE77}|C:\\Users\\agame\\Desktop\\backup notebook huawei\\unidade D\\Agamenon\\C# Curso\\NumeroPrimoURI1165\\meu.||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{608CB347-02AB-4E1F-B69B-100B73C7BE77}|NewFolder1{608CB347-02AB-4E1F-B69B-100B73C7BE77}|solutionrelative:meu.||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "meu.",
+              "DocumentMoniker": "C:\\Users\\agame\\Desktop\\backup notebook huawei\\unidade D\\Agamenon\\C# Curso\\NumeroPrimoURI1165\\meu.",
+              "RelativeDocumentMoniker": "meu.",
+              "ToolTip": "C:\\Users\\agame\\Desktop\\backup notebook huawei\\unidade D\\Agamenon\\C# Curso\\NumeroPrimoURI1165\\meu.",
+              "RelativeToolTip": "meu.",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-15T22:44:53.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agame\\Desktop\\backup notebook huawei\\unidade D\\Agamenon\\C# Curso\\NumeroPrimoURI1165\\NumeroPrimoURI1165\\Program.cs",
+              "RelativeDocumentMoniker": "NumeroPrimoURI1165\\Program.cs",
+              "ToolTip": "C:\\Users\\agame\\Desktop\\backup notebook huawei\\unidade D\\Agamenon\\C# Curso\\NumeroPrimoURI1165\\NumeroPrimoURI1165\\Program.cs",
+              "RelativeToolTip": "NumeroPrimoURI1165\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T22:29:38.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

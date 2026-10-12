@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MesURI1052\MesURI1052\bin\Debug\net10.0\MesURI1052.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MesURI1052\MesURI1052\bin\Debug\net10.0\MesURI1052.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MesURI1052\MesURI1052\bin\Debug\net10.0\MesURI1052.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MesURI1052\MesURI1052\bin\Debug\net10.0\MesURI1052.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MesURI1052\MesURI1052\bin\Debug\net10.0\MesURI1052.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MesURI1052\MesURI1052\obj\Debug\net10.0\MesURI1052.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MesURI1052\MesURI1052\obj\Debug\net10.0\MesURI1052.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MesURI1052\MesURI1052\obj\Debug\net10.0\MesURI1052.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MesURI1052\MesURI1052\obj\Debug\net10.0\MesURI1052.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MesURI1052\MesURI1052\obj\Debug\net10.0\MesURI1052.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MesURI1052\MesURI1052\obj\Debug\net10.0\refint\MesURI1052.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MesURI1052\MesURI1052\obj\Debug\net10.0\MesURI1052.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MesURI1052\MesURI1052\obj\Debug\net10.0\MesURI1052.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MesURI1052\MesURI1052\obj\Debug\net10.0\ref\MesURI1052.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SequenciaSURI1155/1.0.0": {
+        "runtime": {
+          "SequenciaSURI1155.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SequenciaSURI1155/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

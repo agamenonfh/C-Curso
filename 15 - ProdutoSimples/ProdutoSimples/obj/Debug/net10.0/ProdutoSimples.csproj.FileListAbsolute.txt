@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ProdutoSimples\ProdutoSimples\bin\Debug\net10.0\ProdutoSimples.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ProdutoSimples\ProdutoSimples\bin\Debug\net10.0\ProdutoSimples.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ProdutoSimples\ProdutoSimples\bin\Debug\net10.0\ProdutoSimples.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ProdutoSimples\ProdutoSimples\bin\Debug\net10.0\ProdutoSimples.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ProdutoSimples\ProdutoSimples\bin\Debug\net10.0\ProdutoSimples.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ProdutoSimples\ProdutoSimples\obj\Debug\net10.0\ProdutoSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ProdutoSimples\ProdutoSimples\obj\Debug\net10.0\ProdutoSimples.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ProdutoSimples\ProdutoSimples\obj\Debug\net10.0\ProdutoSimples.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ProdutoSimples\ProdutoSimples\obj\Debug\net10.0\ProdutoSimples.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ProdutoSimples\ProdutoSimples\obj\Debug\net10.0\ProdutoSimples.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ProdutoSimples\ProdutoSimples\obj\Debug\net10.0\refint\ProdutoSimples.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ProdutoSimples\ProdutoSimples\obj\Debug\net10.0\ProdutoSimples.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ProdutoSimples\ProdutoSimples\obj\Debug\net10.0\ProdutoSimples.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ProdutoSimples\ProdutoSimples\obj\Debug\net10.0\ref\ProdutoSimples.dll

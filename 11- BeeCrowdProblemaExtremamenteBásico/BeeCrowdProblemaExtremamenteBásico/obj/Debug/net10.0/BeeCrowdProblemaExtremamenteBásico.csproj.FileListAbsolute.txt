@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\BeeCrowdProblemaExtremamenteBásico\BeeCrowdProblemaExtremamenteBásico\bin\Debug\net10.0\BeeCrowdProblemaExtremamenteBásico.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\BeeCrowdProblemaExtremamenteBásico\BeeCrowdProblemaExtremamenteBásico\bin\Debug\net10.0\BeeCrowdProblemaExtremamenteBásico.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\BeeCrowdProblemaExtremamenteBásico\BeeCrowdProblemaExtremamenteBásico\bin\Debug\net10.0\BeeCrowdProblemaExtremamenteBásico.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\BeeCrowdProblemaExtremamenteBásico\BeeCrowdProblemaExtremamenteBásico\bin\Debug\net10.0\BeeCrowdProblemaExtremamenteBásico.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\BeeCrowdProblemaExtremamenteBásico\BeeCrowdProblemaExtremamenteBásico\bin\Debug\net10.0\BeeCrowdProblemaExtremamenteBásico.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\BeeCrowdProblemaExtremamenteBásico\BeeCrowdProblemaExtremamenteBásico\obj\Debug\net10.0\BeeCrowdProblemaExtremamenteBásico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\BeeCrowdProblemaExtremamenteBásico\BeeCrowdProblemaExtremamenteBásico\obj\Debug\net10.0\BeeCrowdProblemaExtremamenteBásico.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\BeeCrowdProblemaExtremamenteBásico\BeeCrowdProblemaExtremamenteBásico\obj\Debug\net10.0\BeeCrowdProblemaExtremamenteBásico.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\BeeCrowdProblemaExtremamenteBásico\BeeCrowdProblemaExtremamenteBásico\obj\Debug\net10.0\BeeCrowdProblemaExtremamenteBásico.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\BeeCrowdProblemaExtremamenteBásico\BeeCrowdProblemaExtremamenteBásico\obj\Debug\net10.0\BeeCrowdProblemaExtremamenteBásico.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\BeeCrowdProblemaExtremamenteBásico\BeeCrowdProblemaExtremamenteBásico\obj\Debug\net10.0\refint\BeeCrowdProblemaExtremamenteBásico.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\BeeCrowdProblemaExtremamenteBásico\BeeCrowdProblemaExtremamenteBásico\obj\Debug\net10.0\BeeCrowdProblemaExtremamenteBásico.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\BeeCrowdProblemaExtremamenteBásico\BeeCrowdProblemaExtremamenteBásico\obj\Debug\net10.0\BeeCrowdProblemaExtremamenteBásico.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\BeeCrowdProblemaExtremamenteBásico\BeeCrowdProblemaExtremamenteBásico\obj\Debug\net10.0\ref\BeeCrowdProblemaExtremamenteBásico.dll

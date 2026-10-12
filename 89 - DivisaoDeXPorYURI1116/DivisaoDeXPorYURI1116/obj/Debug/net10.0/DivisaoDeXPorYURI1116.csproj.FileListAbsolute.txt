@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DivisaoDeXPorYURI1116\DivisaoDeXPorYURI1116\obj\Debug\net10.0\DivisaoDeXPorYURI1116.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DivisaoDeXPorYURI1116\DivisaoDeXPorYURI1116\obj\Debug\net10.0\DivisaoDeXPorYURI1116.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DivisaoDeXPorYURI1116\DivisaoDeXPorYURI1116\obj\Debug\net10.0\DivisaoDeXPorYURI1116.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DivisaoDeXPorYURI1116\DivisaoDeXPorYURI1116\obj\Debug\net10.0\DivisaoDeXPorYURI1116.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DivisaoDeXPorYURI1116\DivisaoDeXPorYURI1116\bin\Debug\net10.0\DivisaoDeXPorYURI1116.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DivisaoDeXPorYURI1116\DivisaoDeXPorYURI1116\bin\Debug\net10.0\DivisaoDeXPorYURI1116.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DivisaoDeXPorYURI1116\DivisaoDeXPorYURI1116\bin\Debug\net10.0\DivisaoDeXPorYURI1116.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DivisaoDeXPorYURI1116\DivisaoDeXPorYURI1116\bin\Debug\net10.0\DivisaoDeXPorYURI1116.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DivisaoDeXPorYURI1116\DivisaoDeXPorYURI1116\bin\Debug\net10.0\DivisaoDeXPorYURI1116.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DivisaoDeXPorYURI1116\DivisaoDeXPorYURI1116\obj\Debug\net10.0\DivisaoDeXPorYURI1116.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DivisaoDeXPorYURI1116\DivisaoDeXPorYURI1116\obj\Debug\net10.0\refint\DivisaoDeXPorYURI1116.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DivisaoDeXPorYURI1116\DivisaoDeXPorYURI1116\obj\Debug\net10.0\DivisaoDeXPorYURI1116.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DivisaoDeXPorYURI1116\DivisaoDeXPorYURI1116\obj\Debug\net10.0\DivisaoDeXPorYURI1116.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DivisaoDeXPorYURI1116\DivisaoDeXPorYURI1116\obj\Debug\net10.0\ref\DivisaoDeXPorYURI1116.dll

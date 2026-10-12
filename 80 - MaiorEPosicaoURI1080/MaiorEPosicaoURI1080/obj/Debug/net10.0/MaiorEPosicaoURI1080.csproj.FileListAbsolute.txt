@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MaiorEPosicaoURI1080\MaiorEPosicaoURI1080\bin\Debug\net10.0\MaiorEPosicaoURI1080.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MaiorEPosicaoURI1080\MaiorEPosicaoURI1080\bin\Debug\net10.0\MaiorEPosicaoURI1080.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MaiorEPosicaoURI1080\MaiorEPosicaoURI1080\bin\Debug\net10.0\MaiorEPosicaoURI1080.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MaiorEPosicaoURI1080\MaiorEPosicaoURI1080\bin\Debug\net10.0\MaiorEPosicaoURI1080.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MaiorEPosicaoURI1080\MaiorEPosicaoURI1080\bin\Debug\net10.0\MaiorEPosicaoURI1080.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MaiorEPosicaoURI1080\MaiorEPosicaoURI1080\obj\Debug\net10.0\MaiorEPosicaoURI1080.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MaiorEPosicaoURI1080\MaiorEPosicaoURI1080\obj\Debug\net10.0\MaiorEPosicaoURI1080.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MaiorEPosicaoURI1080\MaiorEPosicaoURI1080\obj\Debug\net10.0\MaiorEPosicaoURI1080.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MaiorEPosicaoURI1080\MaiorEPosicaoURI1080\obj\Debug\net10.0\MaiorEPosicaoURI1080.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MaiorEPosicaoURI1080\MaiorEPosicaoURI1080\obj\Debug\net10.0\MaiorEPosicaoURI1080.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MaiorEPosicaoURI1080\MaiorEPosicaoURI1080\obj\Debug\net10.0\refint\MaiorEPosicaoURI1080.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MaiorEPosicaoURI1080\MaiorEPosicaoURI1080\obj\Debug\net10.0\MaiorEPosicaoURI1080.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MaiorEPosicaoURI1080\MaiorEPosicaoURI1080\obj\Debug\net10.0\MaiorEPosicaoURI1080.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MaiorEPosicaoURI1080\MaiorEPosicaoURI1080\obj\Debug\net10.0\ref\MaiorEPosicaoURI1080.dll

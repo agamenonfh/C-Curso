@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MediasPonderadasURI1079\MediasPonderadasURI1079\bin\Debug\net10.0\MediasPonderadasURI1079.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MediasPonderadasURI1079\MediasPonderadasURI1079\bin\Debug\net10.0\MediasPonderadasURI1079.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MediasPonderadasURI1079\MediasPonderadasURI1079\bin\Debug\net10.0\MediasPonderadasURI1079.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MediasPonderadasURI1079\MediasPonderadasURI1079\bin\Debug\net10.0\MediasPonderadasURI1079.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MediasPonderadasURI1079\MediasPonderadasURI1079\bin\Debug\net10.0\MediasPonderadasURI1079.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MediasPonderadasURI1079\MediasPonderadasURI1079\obj\Debug\net10.0\MediasPonderadasURI1079.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MediasPonderadasURI1079\MediasPonderadasURI1079\obj\Debug\net10.0\MediasPonderadasURI1079.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MediasPonderadasURI1079\MediasPonderadasURI1079\obj\Debug\net10.0\MediasPonderadasURI1079.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MediasPonderadasURI1079\MediasPonderadasURI1079\obj\Debug\net10.0\MediasPonderadasURI1079.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MediasPonderadasURI1079\MediasPonderadasURI1079\obj\Debug\net10.0\MediasPonderadasURI1079.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MediasPonderadasURI1079\MediasPonderadasURI1079\obj\Debug\net10.0\refint\MediasPonderadasURI1079.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MediasPonderadasURI1079\MediasPonderadasURI1079\obj\Debug\net10.0\MediasPonderadasURI1079.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MediasPonderadasURI1079\MediasPonderadasURI1079\obj\Debug\net10.0\MediasPonderadasURI1079.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MediasPonderadasURI1079\MediasPonderadasURI1079\obj\Debug\net10.0\ref\MediasPonderadasURI1079.dll

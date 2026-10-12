@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ImpostoDeRendaURI1051\ImpostoDeRendaURI1051\bin\Debug\net10.0\ImpostoDeRendaURI1051.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ImpostoDeRendaURI1051\ImpostoDeRendaURI1051\bin\Debug\net10.0\ImpostoDeRendaURI1051.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ImpostoDeRendaURI1051\ImpostoDeRendaURI1051\bin\Debug\net10.0\ImpostoDeRendaURI1051.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ImpostoDeRendaURI1051\ImpostoDeRendaURI1051\bin\Debug\net10.0\ImpostoDeRendaURI1051.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ImpostoDeRendaURI1051\ImpostoDeRendaURI1051\bin\Debug\net10.0\ImpostoDeRendaURI1051.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ImpostoDeRendaURI1051\ImpostoDeRendaURI1051\obj\Debug\net10.0\ImpostoDeRendaURI1051.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ImpostoDeRendaURI1051\ImpostoDeRendaURI1051\obj\Debug\net10.0\ImpostoDeRendaURI1051.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ImpostoDeRendaURI1051\ImpostoDeRendaURI1051\obj\Debug\net10.0\ImpostoDeRendaURI1051.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ImpostoDeRendaURI1051\ImpostoDeRendaURI1051\obj\Debug\net10.0\ImpostoDeRendaURI1051.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ImpostoDeRendaURI1051\ImpostoDeRendaURI1051\obj\Debug\net10.0\ImpostoDeRendaURI1051.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ImpostoDeRendaURI1051\ImpostoDeRendaURI1051\obj\Debug\net10.0\refint\ImpostoDeRendaURI1051.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ImpostoDeRendaURI1051\ImpostoDeRendaURI1051\obj\Debug\net10.0\ImpostoDeRendaURI1051.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ImpostoDeRendaURI1051\ImpostoDeRendaURI1051\obj\Debug\net10.0\ImpostoDeRendaURI1051.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ImpostoDeRendaURI1051\ImpostoDeRendaURI1051\obj\Debug\net10.0\ref\ImpostoDeRendaURI1051.dll

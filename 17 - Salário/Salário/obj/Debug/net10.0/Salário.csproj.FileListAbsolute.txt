@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Salário\Salário\bin\Debug\net10.0\Salário.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Salário\Salário\bin\Debug\net10.0\Salário.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Salário\Salário\bin\Debug\net10.0\Salário.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Salário\Salário\bin\Debug\net10.0\Salário.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Salário\Salário\bin\Debug\net10.0\Salário.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Salário\Salário\obj\Debug\net10.0\Salário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Salário\Salário\obj\Debug\net10.0\Salário.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Salário\Salário\obj\Debug\net10.0\Salário.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Salário\Salário\obj\Debug\net10.0\Salário.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Salário\Salário\obj\Debug\net10.0\Salário.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Salário\Salário\obj\Debug\net10.0\refint\Salário.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Salário\Salário\obj\Debug\net10.0\Salário.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Salário\Salário\obj\Debug\net10.0\Salário.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Salário\Salário\obj\Debug\net10.0\ref\Salário.dll

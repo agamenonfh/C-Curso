@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\VariasNotasComValidacao1118\VariasNotasComValidacao1118\bin\Debug\net10.0\VariasNotasComValidacao1118.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\VariasNotasComValidacao1118\VariasNotasComValidacao1118\bin\Debug\net10.0\VariasNotasComValidacao1118.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\VariasNotasComValidacao1118\VariasNotasComValidacao1118\bin\Debug\net10.0\VariasNotasComValidacao1118.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\VariasNotasComValidacao1118\VariasNotasComValidacao1118\bin\Debug\net10.0\VariasNotasComValidacao1118.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\VariasNotasComValidacao1118\VariasNotasComValidacao1118\bin\Debug\net10.0\VariasNotasComValidacao1118.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\VariasNotasComValidacao1118\VariasNotasComValidacao1118\obj\Debug\net10.0\VariasNotasComValidacao1118.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\VariasNotasComValidacao1118\VariasNotasComValidacao1118\obj\Debug\net10.0\VariasNotasComValidacao1118.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\VariasNotasComValidacao1118\VariasNotasComValidacao1118\obj\Debug\net10.0\VariasNotasComValidacao1118.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\VariasNotasComValidacao1118\VariasNotasComValidacao1118\obj\Debug\net10.0\VariasNotasComValidacao1118.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\VariasNotasComValidacao1118\VariasNotasComValidacao1118\obj\Debug\net10.0\VariasNotasComValidacao1118.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\VariasNotasComValidacao1118\VariasNotasComValidacao1118\obj\Debug\net10.0\refint\VariasNotasComValidacao1118.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\VariasNotasComValidacao1118\VariasNotasComValidacao1118\obj\Debug\net10.0\VariasNotasComValidacao1118.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\VariasNotasComValidacao1118\VariasNotasComValidacao1118\obj\Debug\net10.0\VariasNotasComValidacao1118.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\VariasNotasComValidacao1118\VariasNotasComValidacao1118\obj\Debug\net10.0\ref\VariasNotasComValidacao1118.dll

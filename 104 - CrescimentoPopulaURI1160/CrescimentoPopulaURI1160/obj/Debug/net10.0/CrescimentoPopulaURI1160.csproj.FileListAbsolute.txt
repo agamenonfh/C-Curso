@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CrescimentoPopulaURI1160\CrescimentoPopulaURI1160\bin\Debug\net10.0\CrescimentoPopulaURI1160.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CrescimentoPopulaURI1160\CrescimentoPopulaURI1160\bin\Debug\net10.0\CrescimentoPopulaURI1160.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CrescimentoPopulaURI1160\CrescimentoPopulaURI1160\bin\Debug\net10.0\CrescimentoPopulaURI1160.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CrescimentoPopulaURI1160\CrescimentoPopulaURI1160\bin\Debug\net10.0\CrescimentoPopulaURI1160.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CrescimentoPopulaURI1160\CrescimentoPopulaURI1160\bin\Debug\net10.0\CrescimentoPopulaURI1160.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CrescimentoPopulaURI1160\CrescimentoPopulaURI1160\obj\Debug\net10.0\CrescimentoPopulaURI1160.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CrescimentoPopulaURI1160\CrescimentoPopulaURI1160\obj\Debug\net10.0\CrescimentoPopulaURI1160.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CrescimentoPopulaURI1160\CrescimentoPopulaURI1160\obj\Debug\net10.0\CrescimentoPopulaURI1160.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CrescimentoPopulaURI1160\CrescimentoPopulaURI1160\obj\Debug\net10.0\CrescimentoPopulaURI1160.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CrescimentoPopulaURI1160\CrescimentoPopulaURI1160\obj\Debug\net10.0\CrescimentoPopulaURI1160.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CrescimentoPopulaURI1160\CrescimentoPopulaURI1160\obj\Debug\net10.0\refint\CrescimentoPopulaURI1160.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CrescimentoPopulaURI1160\CrescimentoPopulaURI1160\obj\Debug\net10.0\CrescimentoPopulaURI1160.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CrescimentoPopulaURI1160\CrescimentoPopulaURI1160\obj\Debug\net10.0\CrescimentoPopulaURI1160.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CrescimentoPopulaURI1160\CrescimentoPopulaURI1160\obj\Debug\net10.0\ref\CrescimentoPopulaURI1160.dll

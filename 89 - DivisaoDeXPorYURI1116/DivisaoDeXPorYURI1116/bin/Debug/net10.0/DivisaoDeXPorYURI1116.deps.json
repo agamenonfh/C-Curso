@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DivisaoDeXPorYURI1116/1.0.0": {
+        "runtime": {
+          "DivisaoDeXPorYURI1116.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DivisaoDeXPorYURI1116/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Divisores1URI1157\Divisores1URI1157\bin\Debug\net10.0\Divisores1URI1157.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Divisores1URI1157\Divisores1URI1157\bin\Debug\net10.0\Divisores1URI1157.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Divisores1URI1157\Divisores1URI1157\bin\Debug\net10.0\Divisores1URI1157.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Divisores1URI1157\Divisores1URI1157\bin\Debug\net10.0\Divisores1URI1157.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Divisores1URI1157\Divisores1URI1157\bin\Debug\net10.0\Divisores1URI1157.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Divisores1URI1157\Divisores1URI1157\obj\Debug\net10.0\Divisores1URI1157.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Divisores1URI1157\Divisores1URI1157\obj\Debug\net10.0\Divisores1URI1157.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Divisores1URI1157\Divisores1URI1157\obj\Debug\net10.0\Divisores1URI1157.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Divisores1URI1157\Divisores1URI1157\obj\Debug\net10.0\Divisores1URI1157.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Divisores1URI1157\Divisores1URI1157\obj\Debug\net10.0\Divisores1URI1157.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Divisores1URI1157\Divisores1URI1157\obj\Debug\net10.0\refint\Divisores1URI1157.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Divisores1URI1157\Divisores1URI1157\obj\Debug\net10.0\Divisores1URI1157.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Divisores1URI1157\Divisores1URI1157\obj\Debug\net10.0\Divisores1URI1157.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Divisores1URI1157\Divisores1URI1157\obj\Debug\net10.0\ref\Divisores1URI1157.dll

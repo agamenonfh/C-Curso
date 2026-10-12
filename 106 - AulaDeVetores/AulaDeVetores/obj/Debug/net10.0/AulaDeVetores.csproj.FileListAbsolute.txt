@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AulaDeVetores\AulaDeVetores\bin\Debug\net10.0\AulaDeVetores.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AulaDeVetores\AulaDeVetores\bin\Debug\net10.0\AulaDeVetores.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AulaDeVetores\AulaDeVetores\bin\Debug\net10.0\AulaDeVetores.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AulaDeVetores\AulaDeVetores\bin\Debug\net10.0\AulaDeVetores.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AulaDeVetores\AulaDeVetores\bin\Debug\net10.0\AulaDeVetores.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AulaDeVetores\AulaDeVetores\obj\Debug\net10.0\AulaDeVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AulaDeVetores\AulaDeVetores\obj\Debug\net10.0\AulaDeVetores.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AulaDeVetores\AulaDeVetores\obj\Debug\net10.0\AulaDeVetores.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AulaDeVetores\AulaDeVetores\obj\Debug\net10.0\AulaDeVetores.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AulaDeVetores\AulaDeVetores\obj\Debug\net10.0\AulaDeVetores.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AulaDeVetores\AulaDeVetores\obj\Debug\net10.0\refint\AulaDeVetores.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AulaDeVetores\AulaDeVetores\obj\Debug\net10.0\AulaDeVetores.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AulaDeVetores\AulaDeVetores\obj\Debug\net10.0\AulaDeVetores.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AulaDeVetores\AulaDeVetores\obj\Debug\net10.0\ref\AulaDeVetores.dll

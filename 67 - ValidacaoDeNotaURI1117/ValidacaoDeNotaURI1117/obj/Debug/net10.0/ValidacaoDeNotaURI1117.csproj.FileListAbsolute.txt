@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ValidacaoDeNotaURI1117\ValidacaoDeNotaURI1117\bin\Debug\net10.0\ValidacaoDeNotaURI1117.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ValidacaoDeNotaURI1117\ValidacaoDeNotaURI1117\bin\Debug\net10.0\ValidacaoDeNotaURI1117.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ValidacaoDeNotaURI1117\ValidacaoDeNotaURI1117\bin\Debug\net10.0\ValidacaoDeNotaURI1117.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ValidacaoDeNotaURI1117\ValidacaoDeNotaURI1117\bin\Debug\net10.0\ValidacaoDeNotaURI1117.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ValidacaoDeNotaURI1117\ValidacaoDeNotaURI1117\bin\Debug\net10.0\ValidacaoDeNotaURI1117.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ValidacaoDeNotaURI1117\ValidacaoDeNotaURI1117\obj\Debug\net10.0\ValidacaoDeNotaURI1117.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ValidacaoDeNotaURI1117\ValidacaoDeNotaURI1117\obj\Debug\net10.0\ValidacaoDeNotaURI1117.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ValidacaoDeNotaURI1117\ValidacaoDeNotaURI1117\obj\Debug\net10.0\ValidacaoDeNotaURI1117.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ValidacaoDeNotaURI1117\ValidacaoDeNotaURI1117\obj\Debug\net10.0\ValidacaoDeNotaURI1117.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ValidacaoDeNotaURI1117\ValidacaoDeNotaURI1117\obj\Debug\net10.0\ValidacaoDeNotaURI1117.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ValidacaoDeNotaURI1117\ValidacaoDeNotaURI1117\obj\Debug\net10.0\refint\ValidacaoDeNotaURI1117.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ValidacaoDeNotaURI1117\ValidacaoDeNotaURI1117\obj\Debug\net10.0\ValidacaoDeNotaURI1117.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ValidacaoDeNotaURI1117\ValidacaoDeNotaURI1117\obj\Debug\net10.0\ValidacaoDeNotaURI1117.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ValidacaoDeNotaURI1117\ValidacaoDeNotaURI1117\obj\Debug\net10.0\ref\ValidacaoDeNotaURI1117.dll

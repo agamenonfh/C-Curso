@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DDDURI1050/1.0.0": {
+        "runtime": {
+          "DDDURI1050.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DDDURI1050/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

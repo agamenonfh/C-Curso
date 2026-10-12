@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvidoURI1036\ExercicioResolvidoURI1036\bin\Debug\net10.0\ExercicioResolvidoURI1036.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvidoURI1036\ExercicioResolvidoURI1036\bin\Debug\net10.0\ExercicioResolvidoURI1036.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvidoURI1036\ExercicioResolvidoURI1036\bin\Debug\net10.0\ExercicioResolvidoURI1036.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvidoURI1036\ExercicioResolvidoURI1036\bin\Debug\net10.0\ExercicioResolvidoURI1036.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvidoURI1036\ExercicioResolvidoURI1036\bin\Debug\net10.0\ExercicioResolvidoURI1036.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvidoURI1036\ExercicioResolvidoURI1036\obj\Debug\net10.0\ExercicioResolvidoURI1036.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvidoURI1036\ExercicioResolvidoURI1036\obj\Debug\net10.0\ExercicioResolvidoURI1036.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvidoURI1036\ExercicioResolvidoURI1036\obj\Debug\net10.0\ExercicioResolvidoURI1036.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvidoURI1036\ExercicioResolvidoURI1036\obj\Debug\net10.0\ExercicioResolvidoURI1036.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvidoURI1036\ExercicioResolvidoURI1036\obj\Debug\net10.0\ExercicioResolvidoURI1036.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvidoURI1036\ExercicioResolvidoURI1036\obj\Debug\net10.0\refint\ExercicioResolvidoURI1036.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvidoURI1036\ExercicioResolvidoURI1036\obj\Debug\net10.0\ExercicioResolvidoURI1036.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvidoURI1036\ExercicioResolvidoURI1036\obj\Debug\net10.0\ExercicioResolvidoURI1036.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvidoURI1036\ExercicioResolvidoURI1036\obj\Debug\net10.0\ref\ExercicioResolvidoURI1036.dll

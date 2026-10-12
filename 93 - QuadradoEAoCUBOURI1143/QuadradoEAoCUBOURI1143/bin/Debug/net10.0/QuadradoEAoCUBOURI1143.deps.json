@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "QuadradoEAoCUBOURI1143/1.0.0": {
+        "runtime": {
+          "QuadradoEAoCUBOURI1143.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuadradoEAoCUBOURI1143/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

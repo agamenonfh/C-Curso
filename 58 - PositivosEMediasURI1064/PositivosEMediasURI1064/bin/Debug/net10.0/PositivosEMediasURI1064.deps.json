@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "PositivosEMediasURI1064/1.0.0": {
+        "runtime": {
+          "PositivosEMediasURI1064.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PositivosEMediasURI1064/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

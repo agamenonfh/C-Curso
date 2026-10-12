@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Media2\Media2\bin\Debug\net10.0\Media2.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Media2\Media2\bin\Debug\net10.0\Media2.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Media2\Media2\bin\Debug\net10.0\Media2.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Media2\Media2\bin\Debug\net10.0\Media2.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Media2\Media2\bin\Debug\net10.0\Media2.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Media2\Media2\obj\Debug\net10.0\Media2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Media2\Media2\obj\Debug\net10.0\Media2.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Media2\Media2\obj\Debug\net10.0\Media2.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Media2\Media2\obj\Debug\net10.0\Media2.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Media2\Media2\obj\Debug\net10.0\Media2.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Media2\Media2\obj\Debug\net10.0\refint\Media2.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Media2\Media2\obj\Debug\net10.0\Media2.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Media2\Media2\obj\Debug\net10.0\Media2.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Media2\Media2\obj\Debug\net10.0\ref\Media2.dll

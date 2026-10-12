@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TiposDeCombustivelURI1134\TiposDeCombustivelURI1134\bin\Debug\net10.0\TiposDeCombustivelURI1134.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TiposDeCombustivelURI1134\TiposDeCombustivelURI1134\bin\Debug\net10.0\TiposDeCombustivelURI1134.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TiposDeCombustivelURI1134\TiposDeCombustivelURI1134\bin\Debug\net10.0\TiposDeCombustivelURI1134.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TiposDeCombustivelURI1134\TiposDeCombustivelURI1134\bin\Debug\net10.0\TiposDeCombustivelURI1134.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TiposDeCombustivelURI1134\TiposDeCombustivelURI1134\bin\Debug\net10.0\TiposDeCombustivelURI1134.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TiposDeCombustivelURI1134\TiposDeCombustivelURI1134\obj\Debug\net10.0\TiposDeCombustivelURI1134.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TiposDeCombustivelURI1134\TiposDeCombustivelURI1134\obj\Debug\net10.0\TiposDeCombustivelURI1134.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TiposDeCombustivelURI1134\TiposDeCombustivelURI1134\obj\Debug\net10.0\TiposDeCombustivelURI1134.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TiposDeCombustivelURI1134\TiposDeCombustivelURI1134\obj\Debug\net10.0\TiposDeCombustivelURI1134.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TiposDeCombustivelURI1134\TiposDeCombustivelURI1134\obj\Debug\net10.0\TiposDeCombustivelURI1134.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TiposDeCombustivelURI1134\TiposDeCombustivelURI1134\obj\Debug\net10.0\refint\TiposDeCombustivelURI1134.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TiposDeCombustivelURI1134\TiposDeCombustivelURI1134\obj\Debug\net10.0\TiposDeCombustivelURI1134.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TiposDeCombustivelURI1134\TiposDeCombustivelURI1134\obj\Debug\net10.0\TiposDeCombustivelURI1134.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TiposDeCombustivelURI1134\TiposDeCombustivelURI1134\obj\Debug\net10.0\ref\TiposDeCombustivelURI1134.dll

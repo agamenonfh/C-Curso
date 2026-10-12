@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CalculoSimples\CalculoSimples\bin\Debug\net10.0\CalculoSimples.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CalculoSimples\CalculoSimples\bin\Debug\net10.0\CalculoSimples.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CalculoSimples\CalculoSimples\bin\Debug\net10.0\CalculoSimples.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CalculoSimples\CalculoSimples\bin\Debug\net10.0\CalculoSimples.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CalculoSimples\CalculoSimples\bin\Debug\net10.0\CalculoSimples.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CalculoSimples\CalculoSimples\obj\Debug\net10.0\CalculoSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CalculoSimples\CalculoSimples\obj\Debug\net10.0\CalculoSimples.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CalculoSimples\CalculoSimples\obj\Debug\net10.0\CalculoSimples.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CalculoSimples\CalculoSimples\obj\Debug\net10.0\CalculoSimples.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CalculoSimples\CalculoSimples\obj\Debug\net10.0\CalculoSimples.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CalculoSimples\CalculoSimples\obj\Debug\net10.0\refint\CalculoSimples.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CalculoSimples\CalculoSimples\obj\Debug\net10.0\CalculoSimples.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CalculoSimples\CalculoSimples\obj\Debug\net10.0\CalculoSimples.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\CalculoSimples\CalculoSimples\obj\Debug\net10.0\ref\CalculoSimples.dll

@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SalarioComBonus1009\SalarioComBonus1009\bin\Debug\net10.0\SalarioComBonus1009.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SalarioComBonus1009\SalarioComBonus1009\bin\Debug\net10.0\SalarioComBonus1009.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SalarioComBonus1009\SalarioComBonus1009\bin\Debug\net10.0\SalarioComBonus1009.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SalarioComBonus1009\SalarioComBonus1009\bin\Debug\net10.0\SalarioComBonus1009.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SalarioComBonus1009\SalarioComBonus1009\bin\Debug\net10.0\SalarioComBonus1009.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SalarioComBonus1009\SalarioComBonus1009\obj\Debug\net10.0\SalarioComBonus1009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SalarioComBonus1009\SalarioComBonus1009\obj\Debug\net10.0\SalarioComBonus1009.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SalarioComBonus1009\SalarioComBonus1009\obj\Debug\net10.0\SalarioComBonus1009.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SalarioComBonus1009\SalarioComBonus1009\obj\Debug\net10.0\SalarioComBonus1009.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SalarioComBonus1009\SalarioComBonus1009\obj\Debug\net10.0\SalarioComBonus1009.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SalarioComBonus1009\SalarioComBonus1009\obj\Debug\net10.0\refint\SalarioComBonus1009.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SalarioComBonus1009\SalarioComBonus1009\obj\Debug\net10.0\SalarioComBonus1009.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SalarioComBonus1009\SalarioComBonus1009\obj\Debug\net10.0\SalarioComBonus1009.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SalarioComBonus1009\SalarioComBonus1009\obj\Debug\net10.0\ref\SalarioComBonus1009.dll

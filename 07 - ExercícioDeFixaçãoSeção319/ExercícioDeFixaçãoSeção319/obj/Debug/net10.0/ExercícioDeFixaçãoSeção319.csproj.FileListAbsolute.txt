@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercícioDeFixaçãoSeção319\ExercícioDeFixaçãoSeção319\bin\Debug\net10.0\ExercícioDeFixaçãoSeção319.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercícioDeFixaçãoSeção319\ExercícioDeFixaçãoSeção319\bin\Debug\net10.0\ExercícioDeFixaçãoSeção319.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercícioDeFixaçãoSeção319\ExercícioDeFixaçãoSeção319\bin\Debug\net10.0\ExercícioDeFixaçãoSeção319.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercícioDeFixaçãoSeção319\ExercícioDeFixaçãoSeção319\bin\Debug\net10.0\ExercícioDeFixaçãoSeção319.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercícioDeFixaçãoSeção319\ExercícioDeFixaçãoSeção319\bin\Debug\net10.0\ExercícioDeFixaçãoSeção319.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercícioDeFixaçãoSeção319\ExercícioDeFixaçãoSeção319\obj\Debug\net10.0\ExercícioDeFixaçãoSeção319.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercícioDeFixaçãoSeção319\ExercícioDeFixaçãoSeção319\obj\Debug\net10.0\ExercícioDeFixaçãoSeção319.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercícioDeFixaçãoSeção319\ExercícioDeFixaçãoSeção319\obj\Debug\net10.0\ExercícioDeFixaçãoSeção319.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercícioDeFixaçãoSeção319\ExercícioDeFixaçãoSeção319\obj\Debug\net10.0\ExercícioDeFixaçãoSeção319.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercícioDeFixaçãoSeção319\ExercícioDeFixaçãoSeção319\obj\Debug\net10.0\ExercícioDeFixaçãoSeção319.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercícioDeFixaçãoSeção319\ExercícioDeFixaçãoSeção319\obj\Debug\net10.0\refint\ExercícioDeFixaçãoSeção319.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercícioDeFixaçãoSeção319\ExercícioDeFixaçãoSeção319\obj\Debug\net10.0\ExercícioDeFixaçãoSeção319.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercícioDeFixaçãoSeção319\ExercícioDeFixaçãoSeção319\obj\Debug\net10.0\ExercícioDeFixaçãoSeção319.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercícioDeFixaçãoSeção319\ExercícioDeFixaçãoSeção319\obj\Debug\net10.0\ref\ExercícioDeFixaçãoSeção319.dll

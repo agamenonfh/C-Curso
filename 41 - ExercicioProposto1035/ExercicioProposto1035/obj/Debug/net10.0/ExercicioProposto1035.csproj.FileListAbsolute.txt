@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioProposto1035\ExercicioProposto1035\bin\Debug\net10.0\ExercicioProposto1035.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioProposto1035\ExercicioProposto1035\bin\Debug\net10.0\ExercicioProposto1035.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioProposto1035\ExercicioProposto1035\bin\Debug\net10.0\ExercicioProposto1035.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioProposto1035\ExercicioProposto1035\bin\Debug\net10.0\ExercicioProposto1035.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioProposto1035\ExercicioProposto1035\bin\Debug\net10.0\ExercicioProposto1035.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioProposto1035\ExercicioProposto1035\obj\Debug\net10.0\ExercicioProposto1035.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioProposto1035\ExercicioProposto1035\obj\Debug\net10.0\ExercicioProposto1035.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioProposto1035\ExercicioProposto1035\obj\Debug\net10.0\ExercicioProposto1035.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioProposto1035\ExercicioProposto1035\obj\Debug\net10.0\ExercicioProposto1035.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioProposto1035\ExercicioProposto1035\obj\Debug\net10.0\ExercicioProposto1035.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioProposto1035\ExercicioProposto1035\obj\Debug\net10.0\refint\ExercicioProposto1035.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioProposto1035\ExercicioProposto1035\obj\Debug\net10.0\ExercicioProposto1035.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioProposto1035\ExercicioProposto1035\obj\Debug\net10.0\ExercicioProposto1035.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioProposto1035\ExercicioProposto1035\obj\Debug\net10.0\ref\ExercicioProposto1035.dll

@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaIJ2URI1096\SequenciaIJ2URI1096\bin\Debug\net10.0\SequenciaIJ2URI1096.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaIJ2URI1096\SequenciaIJ2URI1096\bin\Debug\net10.0\SequenciaIJ2URI1096.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaIJ2URI1096\SequenciaIJ2URI1096\bin\Debug\net10.0\SequenciaIJ2URI1096.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaIJ2URI1096\SequenciaIJ2URI1096\bin\Debug\net10.0\SequenciaIJ2URI1096.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaIJ2URI1096\SequenciaIJ2URI1096\bin\Debug\net10.0\SequenciaIJ2URI1096.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaIJ2URI1096\SequenciaIJ2URI1096\obj\Debug\net10.0\SequenciaIJ2URI1096.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaIJ2URI1096\SequenciaIJ2URI1096\obj\Debug\net10.0\SequenciaIJ2URI1096.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaIJ2URI1096\SequenciaIJ2URI1096\obj\Debug\net10.0\SequenciaIJ2URI1096.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaIJ2URI1096\SequenciaIJ2URI1096\obj\Debug\net10.0\SequenciaIJ2URI1096.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaIJ2URI1096\SequenciaIJ2URI1096\obj\Debug\net10.0\SequenciaIJ2URI1096.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaIJ2URI1096\SequenciaIJ2URI1096\obj\Debug\net10.0\refint\SequenciaIJ2URI1096.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaIJ2URI1096\SequenciaIJ2URI1096\obj\Debug\net10.0\SequenciaIJ2URI1096.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaIJ2URI1096\SequenciaIJ2URI1096\obj\Debug\net10.0\SequenciaIJ2URI1096.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaIJ2URI1096\SequenciaIJ2URI1096\obj\Debug\net10.0\ref\SequenciaIJ2URI1096.dll

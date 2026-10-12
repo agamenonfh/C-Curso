@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido01Matrizes\ExercicioResolvido01Matrizes\bin\Debug\net10.0\ExercicioResolvido01Matrizes.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido01Matrizes\ExercicioResolvido01Matrizes\bin\Debug\net10.0\ExercicioResolvido01Matrizes.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido01Matrizes\ExercicioResolvido01Matrizes\bin\Debug\net10.0\ExercicioResolvido01Matrizes.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido01Matrizes\ExercicioResolvido01Matrizes\bin\Debug\net10.0\ExercicioResolvido01Matrizes.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido01Matrizes\ExercicioResolvido01Matrizes\bin\Debug\net10.0\ExercicioResolvido01Matrizes.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido01Matrizes\ExercicioResolvido01Matrizes\obj\Debug\net10.0\ExercicioResolvido01Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido01Matrizes\ExercicioResolvido01Matrizes\obj\Debug\net10.0\ExercicioResolvido01Matrizes.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido01Matrizes\ExercicioResolvido01Matrizes\obj\Debug\net10.0\ExercicioResolvido01Matrizes.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido01Matrizes\ExercicioResolvido01Matrizes\obj\Debug\net10.0\ExercicioResolvido01Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido01Matrizes\ExercicioResolvido01Matrizes\obj\Debug\net10.0\ExercicioResolvido01Matrizes.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido01Matrizes\ExercicioResolvido01Matrizes\obj\Debug\net10.0\refint\ExercicioResolvido01Matrizes.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido01Matrizes\ExercicioResolvido01Matrizes\obj\Debug\net10.0\ExercicioResolvido01Matrizes.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido01Matrizes\ExercicioResolvido01Matrizes\obj\Debug\net10.0\ExercicioResolvido01Matrizes.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido01Matrizes\ExercicioResolvido01Matrizes\obj\Debug\net10.0\ref\ExercicioResolvido01Matrizes.dll

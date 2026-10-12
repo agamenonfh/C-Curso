@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MultiplosDe13URI1132\MultiplosDe13URI1132\bin\Debug\net10.0\MultiplosDe13URI1132.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MultiplosDe13URI1132\MultiplosDe13URI1132\bin\Debug\net10.0\MultiplosDe13URI1132.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MultiplosDe13URI1132\MultiplosDe13URI1132\bin\Debug\net10.0\MultiplosDe13URI1132.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MultiplosDe13URI1132\MultiplosDe13URI1132\bin\Debug\net10.0\MultiplosDe13URI1132.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MultiplosDe13URI1132\MultiplosDe13URI1132\bin\Debug\net10.0\MultiplosDe13URI1132.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MultiplosDe13URI1132\MultiplosDe13URI1132\obj\Debug\net10.0\MultiplosDe13URI1132.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MultiplosDe13URI1132\MultiplosDe13URI1132\obj\Debug\net10.0\MultiplosDe13URI1132.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MultiplosDe13URI1132\MultiplosDe13URI1132\obj\Debug\net10.0\MultiplosDe13URI1132.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MultiplosDe13URI1132\MultiplosDe13URI1132\obj\Debug\net10.0\MultiplosDe13URI1132.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MultiplosDe13URI1132\MultiplosDe13URI1132\obj\Debug\net10.0\MultiplosDe13URI1132.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MultiplosDe13URI1132\MultiplosDe13URI1132\obj\Debug\net10.0\refint\MultiplosDe13URI1132.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MultiplosDe13URI1132\MultiplosDe13URI1132\obj\Debug\net10.0\MultiplosDe13URI1132.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MultiplosDe13URI1132\MultiplosDe13URI1132\obj\Debug\net10.0\MultiplosDe13URI1132.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\MultiplosDe13URI1132\MultiplosDe13URI1132\obj\Debug\net10.0\ref\MultiplosDe13URI1132.dll

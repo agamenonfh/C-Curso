@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido03\ExercicioResolvido03\bin\Debug\net10.0\ExercicioResolvido03.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido03\ExercicioResolvido03\bin\Debug\net10.0\ExercicioResolvido03.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido03\ExercicioResolvido03\bin\Debug\net10.0\ExercicioResolvido03.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido03\ExercicioResolvido03\bin\Debug\net10.0\ExercicioResolvido03.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido03\ExercicioResolvido03\bin\Debug\net10.0\ExercicioResolvido03.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido03\ExercicioResolvido03\obj\Debug\net10.0\ExercicioResolvido03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido03\ExercicioResolvido03\obj\Debug\net10.0\ExercicioResolvido03.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido03\ExercicioResolvido03\obj\Debug\net10.0\ExercicioResolvido03.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido03\ExercicioResolvido03\obj\Debug\net10.0\ExercicioResolvido03.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido03\ExercicioResolvido03\obj\Debug\net10.0\ExercicioResolvido03.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido03\ExercicioResolvido03\obj\Debug\net10.0\refint\ExercicioResolvido03.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido03\ExercicioResolvido03\obj\Debug\net10.0\ExercicioResolvido03.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido03\ExercicioResolvido03\obj\Debug\net10.0\ExercicioResolvido03.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido03\ExercicioResolvido03\obj\Debug\net10.0\ref\ExercicioResolvido03.dll

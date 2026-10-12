@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agame\\Desktop\\backup notebook huawei\\unidade D\\Agamenon\\C# Curso\\SomaDeImparesConsecutivosIIURI1099\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9FC31B-49A4-4B5B-A1FF-DDFBA5382F68}|SomaDeImparesConsecutivosIIURI1099\\SomaDeImparesConsecutivosIIURI1099.csproj|c:\\users\\agame\\desktop\\backup notebook huawei\\unidade d\\agamenon\\c# curso\\somadeimparesconsecutivosiiuri1099\\somadeimparesconsecutivosiiuri1099\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9FC31B-49A4-4B5B-A1FF-DDFBA5382F68}|SomaDeImparesConsecutivosIIURI1099\\SomaDeImparesConsecutivosIIURI1099.csproj|solutionrelative:somadeimparesconsecutivosiiuri1099\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agame\\Desktop\\backup notebook huawei\\unidade D\\Agamenon\\C# Curso\\SomaDeImparesConsecutivosIIURI1099\\SomaDeImparesConsecutivosIIURI1099\\Program.cs",
+              "RelativeDocumentMoniker": "SomaDeImparesConsecutivosIIURI1099\\Program.cs",
+              "ToolTip": "C:\\Users\\agame\\Desktop\\backup notebook huawei\\unidade D\\Agamenon\\C# Curso\\SomaDeImparesConsecutivosIIURI1099\\SomaDeImparesConsecutivosIIURI1099\\Program.cs",
+              "RelativeToolTip": "SomaDeImparesConsecutivosIIURI1099\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T23:47:53.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

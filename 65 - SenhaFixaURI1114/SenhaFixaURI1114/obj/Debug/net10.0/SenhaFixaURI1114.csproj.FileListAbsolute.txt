@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SenhaFixaURI1114\SenhaFixaURI1114\bin\Debug\net10.0\SenhaFixaURI1114.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SenhaFixaURI1114\SenhaFixaURI1114\bin\Debug\net10.0\SenhaFixaURI1114.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SenhaFixaURI1114\SenhaFixaURI1114\bin\Debug\net10.0\SenhaFixaURI1114.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SenhaFixaURI1114\SenhaFixaURI1114\bin\Debug\net10.0\SenhaFixaURI1114.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SenhaFixaURI1114\SenhaFixaURI1114\bin\Debug\net10.0\SenhaFixaURI1114.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SenhaFixaURI1114\SenhaFixaURI1114\obj\Debug\net10.0\SenhaFixaURI1114.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SenhaFixaURI1114\SenhaFixaURI1114\obj\Debug\net10.0\SenhaFixaURI1114.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SenhaFixaURI1114\SenhaFixaURI1114\obj\Debug\net10.0\SenhaFixaURI1114.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SenhaFixaURI1114\SenhaFixaURI1114\obj\Debug\net10.0\SenhaFixaURI1114.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SenhaFixaURI1114\SenhaFixaURI1114\obj\Debug\net10.0\SenhaFixaURI1114.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SenhaFixaURI1114\SenhaFixaURI1114\obj\Debug\net10.0\refint\SenhaFixaURI1114.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SenhaFixaURI1114\SenhaFixaURI1114\obj\Debug\net10.0\SenhaFixaURI1114.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SenhaFixaURI1114\SenhaFixaURI1114\obj\Debug\net10.0\SenhaFixaURI1114.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SenhaFixaURI1114\SenhaFixaURI1114\obj\Debug\net10.0\ref\SenhaFixaURI1114.dll

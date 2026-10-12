@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaSimples\SomaSimples\bin\Debug\net10.0\SomaSimples.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaSimples\SomaSimples\bin\Debug\net10.0\SomaSimples.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaSimples\SomaSimples\bin\Debug\net10.0\SomaSimples.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaSimples\SomaSimples\bin\Debug\net10.0\SomaSimples.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaSimples\SomaSimples\bin\Debug\net10.0\SomaSimples.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaSimples\SomaSimples\obj\Debug\net10.0\SomaSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaSimples\SomaSimples\obj\Debug\net10.0\SomaSimples.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaSimples\SomaSimples\obj\Debug\net10.0\SomaSimples.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaSimples\SomaSimples\obj\Debug\net10.0\SomaSimples.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaSimples\SomaSimples\obj\Debug\net10.0\SomaSimples.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaSimples\SomaSimples\obj\Debug\net10.0\refint\SomaSimples.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaSimples\SomaSimples\obj\Debug\net10.0\SomaSimples.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaSimples\SomaSimples\obj\Debug\net10.0\SomaSimples.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SomaSimples\SomaSimples\obj\Debug\net10.0\ref\SomaSimples.dll

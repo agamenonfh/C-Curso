@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercíciosUnidade3\CodigoDoProfessor\bin\Debug\net10.0\CodigoDoProfessor.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercíciosUnidade3\CodigoDoProfessor\bin\Debug\net10.0\CodigoDoProfessor.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercíciosUnidade3\CodigoDoProfessor\bin\Debug\net10.0\CodigoDoProfessor.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercíciosUnidade3\CodigoDoProfessor\bin\Debug\net10.0\CodigoDoProfessor.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercíciosUnidade3\CodigoDoProfessor\bin\Debug\net10.0\CodigoDoProfessor.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercíciosUnidade3\CodigoDoProfessor\obj\Debug\net10.0\CodigoDoProfessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercíciosUnidade3\CodigoDoProfessor\obj\Debug\net10.0\CodigoDoProfessor.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercíciosUnidade3\CodigoDoProfessor\obj\Debug\net10.0\CodigoDoProfessor.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercíciosUnidade3\CodigoDoProfessor\obj\Debug\net10.0\CodigoDoProfessor.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercíciosUnidade3\CodigoDoProfessor\obj\Debug\net10.0\CodigoDoProfessor.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercíciosUnidade3\CodigoDoProfessor\obj\Debug\net10.0\refint\CodigoDoProfessor.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercíciosUnidade3\CodigoDoProfessor\obj\Debug\net10.0\CodigoDoProfessor.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercíciosUnidade3\CodigoDoProfessor\obj\Debug\net10.0\CodigoDoProfessor.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercíciosUnidade3\CodigoDoProfessor\obj\Debug\net10.0\ref\CodigoDoProfessor.dll

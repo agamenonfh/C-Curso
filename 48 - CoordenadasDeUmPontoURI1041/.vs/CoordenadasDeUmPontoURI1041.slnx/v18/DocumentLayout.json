@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agame\\Desktop\\backup notebook huawei\\unidade D\\Agamenon\\C# Curso\\CoordenadasDeUmPontoURI1041\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86DF68B6-F978-4DD4-88C2-1003F829475B}|CoordenadasDeUmPontoURI1041\\CoordenadasDeUmPontoURI1041.csproj|c:\\users\\agame\\desktop\\backup notebook huawei\\unidade d\\agamenon\\c# curso\\coordenadasdeumpontouri1041\\coordenadasdeumpontouri1041\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DF68B6-F978-4DD4-88C2-1003F829475B}|CoordenadasDeUmPontoURI1041\\CoordenadasDeUmPontoURI1041.csproj|solutionrelative:coordenadasdeumpontouri1041\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agame\\Desktop\\backup notebook huawei\\unidade D\\Agamenon\\C# Curso\\CoordenadasDeUmPontoURI1041\\CoordenadasDeUmPontoURI1041\\Program.cs",
+              "RelativeDocumentMoniker": "CoordenadasDeUmPontoURI1041\\Program.cs",
+              "ToolTip": "C:\\Users\\agame\\Desktop\\backup notebook huawei\\unidade D\\Agamenon\\C# Curso\\CoordenadasDeUmPontoURI1041\\CoordenadasDeUmPontoURI1041\\Program.cs",
+              "RelativeToolTip": "CoordenadasDeUmPontoURI1041\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T10:15:37.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

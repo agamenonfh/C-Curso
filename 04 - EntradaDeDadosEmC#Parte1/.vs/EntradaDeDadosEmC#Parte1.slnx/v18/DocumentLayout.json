@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agame\\Desktop\\backup notebook huawei\\unidade D\\Agamenon\\C# Curso\\EntradaDeDadosEmC#Parte1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CEAA1F-3FC8-64D1-3312-8E1B7047A954}|EntradaDeDadosEmC#Parte1\\EntradaDeDadosEmC#Parte1.csproj|c:\\users\\agame\\desktop\\backup notebook huawei\\unidade d\\agamenon\\c# curso\\entradadedadosemc#parte1\\entradadedadosemc#parte1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CEAA1F-3FC8-64D1-3312-8E1B7047A954}|EntradaDeDadosEmC#Parte1\\EntradaDeDadosEmC#Parte1.csproj|solutionrelative:entradadedadosemc#parte1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agame\\Desktop\\backup notebook huawei\\unidade D\\Agamenon\\C# Curso\\EntradaDeDadosEmC#Parte1\\EntradaDeDadosEmC#Parte1\\Program.cs",
+              "RelativeDocumentMoniker": "EntradaDeDadosEmC#Parte1\\Program.cs",
+              "ToolTip": "C:\\Users\\agame\\Desktop\\backup notebook huawei\\unidade D\\Agamenon\\C# Curso\\EntradaDeDadosEmC#Parte1\\EntradaDeDadosEmC#Parte1\\Program.cs",
+              "RelativeToolTip": "EntradaDeDadosEmC#Parte1\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T15:27:40.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

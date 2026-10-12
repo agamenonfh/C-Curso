@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DDDURI1050\DDDURI1050\bin\Debug\net10.0\DDDURI1050.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DDDURI1050\DDDURI1050\bin\Debug\net10.0\DDDURI1050.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DDDURI1050\DDDURI1050\bin\Debug\net10.0\DDDURI1050.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DDDURI1050\DDDURI1050\bin\Debug\net10.0\DDDURI1050.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DDDURI1050\DDDURI1050\bin\Debug\net10.0\DDDURI1050.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DDDURI1050\DDDURI1050\obj\Debug\net10.0\DDDURI1050.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DDDURI1050\DDDURI1050\obj\Debug\net10.0\DDDURI1050.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DDDURI1050\DDDURI1050\obj\Debug\net10.0\DDDURI1050.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DDDURI1050\DDDURI1050\obj\Debug\net10.0\DDDURI1050.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DDDURI1050\DDDURI1050\obj\Debug\net10.0\DDDURI1050.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DDDURI1050\DDDURI1050\obj\Debug\net10.0\refint\DDDURI1050.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DDDURI1050\DDDURI1050\obj\Debug\net10.0\DDDURI1050.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DDDURI1050\DDDURI1050\obj\Debug\net10.0\DDDURI1050.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\DDDURI1050\DDDURI1050\obj\Debug\net10.0\ref\DDDURI1050.dll

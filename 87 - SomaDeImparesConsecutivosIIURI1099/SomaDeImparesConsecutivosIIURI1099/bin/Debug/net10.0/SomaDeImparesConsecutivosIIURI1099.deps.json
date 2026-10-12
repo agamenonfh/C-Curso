@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SomaDeImparesConsecutivosIIURI1099/1.0.0": {
+        "runtime": {
+          "SomaDeImparesConsecutivosIIURI1099.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SomaDeImparesConsecutivosIIURI1099/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

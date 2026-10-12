@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agame\\Desktop\\backup notebook huawei\\unidade D\\Agamenon\\C# Curso\\EstruturaRepetitivaEnquanto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8505E6-9D2A-4553-94E6-DA22878A6B7D}|EstruturaRepetitivaEnquanto\\EstruturaRepetitivaEnquanto.csproj|c:\\users\\agame\\desktop\\backup notebook huawei\\unidade d\\agamenon\\c# curso\\estruturarepetitivaenquanto\\estruturarepetitivaenquanto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8505E6-9D2A-4553-94E6-DA22878A6B7D}|EstruturaRepetitivaEnquanto\\EstruturaRepetitivaEnquanto.csproj|solutionrelative:estruturarepetitivaenquanto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agame\\Desktop\\backup notebook huawei\\unidade D\\Agamenon\\C# Curso\\EstruturaRepetitivaEnquanto\\EstruturaRepetitivaEnquanto\\Program.cs",
+              "RelativeDocumentMoniker": "EstruturaRepetitivaEnquanto\\Program.cs",
+              "ToolTip": "C:\\Users\\agame\\Desktop\\backup notebook huawei\\unidade D\\Agamenon\\C# Curso\\EstruturaRepetitivaEnquanto\\EstruturaRepetitivaEnquanto\\Program.cs",
+              "RelativeToolTip": "EstruturaRepetitivaEnquanto\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T14:16:41.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

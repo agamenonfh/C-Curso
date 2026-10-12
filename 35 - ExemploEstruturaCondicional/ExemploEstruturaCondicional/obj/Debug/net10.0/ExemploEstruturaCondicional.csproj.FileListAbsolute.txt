@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExemploEstruturaCondicional\ExemploEstruturaCondicional\obj\Debug\net10.0\ExemploEstruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExemploEstruturaCondicional\ExemploEstruturaCondicional\obj\Debug\net10.0\ExemploEstruturaCondicional.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExemploEstruturaCondicional\ExemploEstruturaCondicional\obj\Debug\net10.0\ExemploEstruturaCondicional.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExemploEstruturaCondicional\ExemploEstruturaCondicional\obj\Debug\net10.0\ExemploEstruturaCondicional.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExemploEstruturaCondicional\ExemploEstruturaCondicional\bin\Debug\net10.0\ExemploEstruturaCondicional.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExemploEstruturaCondicional\ExemploEstruturaCondicional\bin\Debug\net10.0\ExemploEstruturaCondicional.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExemploEstruturaCondicional\ExemploEstruturaCondicional\bin\Debug\net10.0\ExemploEstruturaCondicional.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExemploEstruturaCondicional\ExemploEstruturaCondicional\bin\Debug\net10.0\ExemploEstruturaCondicional.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExemploEstruturaCondicional\ExemploEstruturaCondicional\bin\Debug\net10.0\ExemploEstruturaCondicional.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExemploEstruturaCondicional\ExemploEstruturaCondicional\obj\Debug\net10.0\ExemploEstruturaCondicional.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExemploEstruturaCondicional\ExemploEstruturaCondicional\obj\Debug\net10.0\refint\ExemploEstruturaCondicional.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExemploEstruturaCondicional\ExemploEstruturaCondicional\obj\Debug\net10.0\ExemploEstruturaCondicional.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExemploEstruturaCondicional\ExemploEstruturaCondicional\obj\Debug\net10.0\ExemploEstruturaCondicional.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExemploEstruturaCondicional\ExemploEstruturaCondicional\obj\Debug\net10.0\ref\ExemploEstruturaCondicional.dll

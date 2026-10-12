@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "NumerosImparesURI1067/1.0.0": {
+        "runtime": {
+          "NumerosImparesURI1067.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NumerosImparesURI1067/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

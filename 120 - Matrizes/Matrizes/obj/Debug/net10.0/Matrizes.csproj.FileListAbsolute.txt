@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Matrizes\Matrizes\bin\Debug\net10.0\Matrizes.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Matrizes\Matrizes\bin\Debug\net10.0\Matrizes.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Matrizes\Matrizes\bin\Debug\net10.0\Matrizes.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Matrizes\Matrizes\bin\Debug\net10.0\Matrizes.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Matrizes\Matrizes\bin\Debug\net10.0\Matrizes.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Matrizes\Matrizes\obj\Debug\net10.0\Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Matrizes\Matrizes\obj\Debug\net10.0\Matrizes.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Matrizes\Matrizes\obj\Debug\net10.0\Matrizes.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Matrizes\Matrizes\obj\Debug\net10.0\Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Matrizes\Matrizes\obj\Debug\net10.0\Matrizes.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Matrizes\Matrizes\obj\Debug\net10.0\refint\Matrizes.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Matrizes\Matrizes\obj\Debug\net10.0\Matrizes.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Matrizes\Matrizes\obj\Debug\net10.0\Matrizes.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Matrizes\Matrizes\obj\Debug\net10.0\ref\Matrizes.dll

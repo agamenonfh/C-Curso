@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Lanche1038\Lanche1038\bin\Debug\net10.0\Lanche1038.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Lanche1038\Lanche1038\bin\Debug\net10.0\Lanche1038.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Lanche1038\Lanche1038\bin\Debug\net10.0\Lanche1038.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Lanche1038\Lanche1038\bin\Debug\net10.0\Lanche1038.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Lanche1038\Lanche1038\bin\Debug\net10.0\Lanche1038.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Lanche1038\Lanche1038\obj\Debug\net10.0\Lanche1038.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Lanche1038\Lanche1038\obj\Debug\net10.0\Lanche1038.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Lanche1038\Lanche1038\obj\Debug\net10.0\Lanche1038.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Lanche1038\Lanche1038\obj\Debug\net10.0\Lanche1038.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Lanche1038\Lanche1038\obj\Debug\net10.0\Lanche1038.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Lanche1038\Lanche1038\obj\Debug\net10.0\refint\Lanche1038.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Lanche1038\Lanche1038\obj\Debug\net10.0\Lanche1038.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Lanche1038\Lanche1038\obj\Debug\net10.0\Lanche1038.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Lanche1038\Lanche1038\obj\Debug\net10.0\ref\Lanche1038.dll

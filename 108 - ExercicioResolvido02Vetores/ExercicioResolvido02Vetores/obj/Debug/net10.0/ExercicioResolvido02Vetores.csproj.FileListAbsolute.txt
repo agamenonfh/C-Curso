@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido02Vetores\ExercicioResolvido02Vetores\bin\Debug\net10.0\ExercicioResolvido02Vetores.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido02Vetores\ExercicioResolvido02Vetores\bin\Debug\net10.0\ExercicioResolvido02Vetores.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido02Vetores\ExercicioResolvido02Vetores\bin\Debug\net10.0\ExercicioResolvido02Vetores.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido02Vetores\ExercicioResolvido02Vetores\bin\Debug\net10.0\ExercicioResolvido02Vetores.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido02Vetores\ExercicioResolvido02Vetores\bin\Debug\net10.0\ExercicioResolvido02Vetores.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido02Vetores\ExercicioResolvido02Vetores\obj\Debug\net10.0\ExercicioResolvido02Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido02Vetores\ExercicioResolvido02Vetores\obj\Debug\net10.0\ExercicioResolvido02Vetores.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido02Vetores\ExercicioResolvido02Vetores\obj\Debug\net10.0\ExercicioResolvido02Vetores.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido02Vetores\ExercicioResolvido02Vetores\obj\Debug\net10.0\ExercicioResolvido02Vetores.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido02Vetores\ExercicioResolvido02Vetores\obj\Debug\net10.0\ExercicioResolvido02Vetores.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido02Vetores\ExercicioResolvido02Vetores\obj\Debug\net10.0\refint\ExercicioResolvido02Vetores.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido02Vetores\ExercicioResolvido02Vetores\obj\Debug\net10.0\ExercicioResolvido02Vetores.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido02Vetores\ExercicioResolvido02Vetores\obj\Debug\net10.0\ExercicioResolvido02Vetores.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioResolvido02Vetores\ExercicioResolvido02Vetores\obj\Debug\net10.0\ref\ExercicioResolvido02Vetores.dll

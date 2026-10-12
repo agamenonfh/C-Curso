@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaDeNumerosESomaURI1101\SequenciaDeNumerosESomaURI1101\bin\Debug\net10.0\SequenciaDeNumerosESomaURI1101.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaDeNumerosESomaURI1101\SequenciaDeNumerosESomaURI1101\bin\Debug\net10.0\SequenciaDeNumerosESomaURI1101.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaDeNumerosESomaURI1101\SequenciaDeNumerosESomaURI1101\bin\Debug\net10.0\SequenciaDeNumerosESomaURI1101.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaDeNumerosESomaURI1101\SequenciaDeNumerosESomaURI1101\bin\Debug\net10.0\SequenciaDeNumerosESomaURI1101.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaDeNumerosESomaURI1101\SequenciaDeNumerosESomaURI1101\bin\Debug\net10.0\SequenciaDeNumerosESomaURI1101.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaDeNumerosESomaURI1101\SequenciaDeNumerosESomaURI1101\obj\Debug\net10.0\SequenciaDeNumerosESomaURI1101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaDeNumerosESomaURI1101\SequenciaDeNumerosESomaURI1101\obj\Debug\net10.0\SequenciaDeNumerosESomaURI1101.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaDeNumerosESomaURI1101\SequenciaDeNumerosESomaURI1101\obj\Debug\net10.0\SequenciaDeNumerosESomaURI1101.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaDeNumerosESomaURI1101\SequenciaDeNumerosESomaURI1101\obj\Debug\net10.0\SequenciaDeNumerosESomaURI1101.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaDeNumerosESomaURI1101\SequenciaDeNumerosESomaURI1101\obj\Debug\net10.0\SequenciaDeNumerosESomaURI1101.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaDeNumerosESomaURI1101\SequenciaDeNumerosESomaURI1101\obj\Debug\net10.0\refint\SequenciaDeNumerosESomaURI1101.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaDeNumerosESomaURI1101\SequenciaDeNumerosESomaURI1101\obj\Debug\net10.0\SequenciaDeNumerosESomaURI1101.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaDeNumerosESomaURI1101\SequenciaDeNumerosESomaURI1101\obj\Debug\net10.0\SequenciaDeNumerosESomaURI1101.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaDeNumerosESomaURI1101\SequenciaDeNumerosESomaURI1101\obj\Debug\net10.0\ref\SequenciaDeNumerosESomaURI1101.dll

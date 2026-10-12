@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Esfera1011\Esfera1011\bin\Debug\net10.0\Esfera1011.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Esfera1011\Esfera1011\bin\Debug\net10.0\Esfera1011.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Esfera1011\Esfera1011\bin\Debug\net10.0\Esfera1011.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Esfera1011\Esfera1011\bin\Debug\net10.0\Esfera1011.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Esfera1011\Esfera1011\bin\Debug\net10.0\Esfera1011.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Esfera1011\Esfera1011\obj\Debug\net10.0\Esfera1011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Esfera1011\Esfera1011\obj\Debug\net10.0\Esfera1011.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Esfera1011\Esfera1011\obj\Debug\net10.0\Esfera1011.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Esfera1011\Esfera1011\obj\Debug\net10.0\Esfera1011.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Esfera1011\Esfera1011\obj\Debug\net10.0\Esfera1011.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Esfera1011\Esfera1011\obj\Debug\net10.0\refint\Esfera1011.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Esfera1011\Esfera1011\obj\Debug\net10.0\Esfera1011.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Esfera1011\Esfera1011\obj\Debug\net10.0\Esfera1011.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Esfera1011\Esfera1011\obj\Debug\net10.0\ref\Esfera1011.dll

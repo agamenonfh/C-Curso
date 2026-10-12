@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "GrenaisURI1131/1.0.0": {
+        "runtime": {
+          "GrenaisURI1131.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GrenaisURI1131/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

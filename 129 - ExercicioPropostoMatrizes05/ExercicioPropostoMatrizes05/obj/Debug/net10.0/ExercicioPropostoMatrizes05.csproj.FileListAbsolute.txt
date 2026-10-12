@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioPropostoMatrizes05\ExercicioPropostoMatrizes05\bin\Debug\net10.0\ExercicioPropostoMatrizes05.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioPropostoMatrizes05\ExercicioPropostoMatrizes05\bin\Debug\net10.0\ExercicioPropostoMatrizes05.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioPropostoMatrizes05\ExercicioPropostoMatrizes05\bin\Debug\net10.0\ExercicioPropostoMatrizes05.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioPropostoMatrizes05\ExercicioPropostoMatrizes05\bin\Debug\net10.0\ExercicioPropostoMatrizes05.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioPropostoMatrizes05\ExercicioPropostoMatrizes05\bin\Debug\net10.0\ExercicioPropostoMatrizes05.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioPropostoMatrizes05\ExercicioPropostoMatrizes05\obj\Debug\net10.0\ExercicioPropostoMatrizes05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioPropostoMatrizes05\ExercicioPropostoMatrizes05\obj\Debug\net10.0\ExercicioPropostoMatrizes05.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioPropostoMatrizes05\ExercicioPropostoMatrizes05\obj\Debug\net10.0\ExercicioPropostoMatrizes05.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioPropostoMatrizes05\ExercicioPropostoMatrizes05\obj\Debug\net10.0\ExercicioPropostoMatrizes05.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioPropostoMatrizes05\ExercicioPropostoMatrizes05\obj\Debug\net10.0\ExercicioPropostoMatrizes05.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioPropostoMatrizes05\ExercicioPropostoMatrizes05\obj\Debug\net10.0\refint\ExercicioPropostoMatrizes05.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioPropostoMatrizes05\ExercicioPropostoMatrizes05\obj\Debug\net10.0\ExercicioPropostoMatrizes05.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioPropostoMatrizes05\ExercicioPropostoMatrizes05\obj\Debug\net10.0\ExercicioPropostoMatrizes05.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExercicioPropostoMatrizes05\ExercicioPropostoMatrizes05\obj\Debug\net10.0\ref\ExercicioPropostoMatrizes05.dll

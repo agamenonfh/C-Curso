@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agame\\Desktop\\backup notebook huawei\\unidade D\\Agamenon\\C# Curso\\SomaDeNumerosImparesURI1074\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5AA7E7-4B86-4F2D-91CD-475229FBE6EF}|SomaDeNumerosImparesURI1074\\SomaDeNumerosImparesURI1074.csproj|c:\\users\\agame\\desktop\\backup notebook huawei\\unidade d\\agamenon\\c# curso\\somadenumerosimparesuri1074\\somadenumerosimparesuri1074\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5AA7E7-4B86-4F2D-91CD-475229FBE6EF}|SomaDeNumerosImparesURI1074\\SomaDeNumerosImparesURI1074.csproj|solutionrelative:somadenumerosimparesuri1074\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agame\\Desktop\\backup notebook huawei\\unidade D\\Agamenon\\C# Curso\\SomaDeNumerosImparesURI1074\\SomaDeNumerosImparesURI1074\\Program.cs",
+              "RelativeDocumentMoniker": "SomaDeNumerosImparesURI1074\\Program.cs",
+              "ToolTip": "C:\\Users\\agame\\Desktop\\backup notebook huawei\\unidade D\\Agamenon\\C# Curso\\SomaDeNumerosImparesURI1074\\SomaDeNumerosImparesURI1074\\Program.cs",
+              "RelativeToolTip": "SomaDeNumerosImparesURI1074\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T20:02:10.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

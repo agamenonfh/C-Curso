@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadranteURI1115\QuadranteURI1115\bin\Debug\net10.0\QuadranteURI1115.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadranteURI1115\QuadranteURI1115\bin\Debug\net10.0\QuadranteURI1115.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadranteURI1115\QuadranteURI1115\bin\Debug\net10.0\QuadranteURI1115.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadranteURI1115\QuadranteURI1115\bin\Debug\net10.0\QuadranteURI1115.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadranteURI1115\QuadranteURI1115\bin\Debug\net10.0\QuadranteURI1115.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadranteURI1115\QuadranteURI1115\obj\Debug\net10.0\QuadranteURI1115.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadranteURI1115\QuadranteURI1115\obj\Debug\net10.0\QuadranteURI1115.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadranteURI1115\QuadranteURI1115\obj\Debug\net10.0\QuadranteURI1115.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadranteURI1115\QuadranteURI1115\obj\Debug\net10.0\QuadranteURI1115.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadranteURI1115\QuadranteURI1115\obj\Debug\net10.0\QuadranteURI1115.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadranteURI1115\QuadranteURI1115\obj\Debug\net10.0\refint\QuadranteURI1115.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadranteURI1115\QuadranteURI1115\obj\Debug\net10.0\QuadranteURI1115.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadranteURI1115\QuadranteURI1115\obj\Debug\net10.0\QuadranteURI1115.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadranteURI1115\QuadranteURI1115\obj\Debug\net10.0\ref\QuadranteURI1115.dll

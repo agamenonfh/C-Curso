@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TipoDeTrianguloURI1045\TipoDeTrianguloURI1045\bin\Debug\net10.0\TipoDeTrianguloURI1045.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TipoDeTrianguloURI1045\TipoDeTrianguloURI1045\bin\Debug\net10.0\TipoDeTrianguloURI1045.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TipoDeTrianguloURI1045\TipoDeTrianguloURI1045\bin\Debug\net10.0\TipoDeTrianguloURI1045.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TipoDeTrianguloURI1045\TipoDeTrianguloURI1045\bin\Debug\net10.0\TipoDeTrianguloURI1045.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TipoDeTrianguloURI1045\TipoDeTrianguloURI1045\bin\Debug\net10.0\TipoDeTrianguloURI1045.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TipoDeTrianguloURI1045\TipoDeTrianguloURI1045\obj\Debug\net10.0\TipoDeTrianguloURI1045.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TipoDeTrianguloURI1045\TipoDeTrianguloURI1045\obj\Debug\net10.0\TipoDeTrianguloURI1045.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TipoDeTrianguloURI1045\TipoDeTrianguloURI1045\obj\Debug\net10.0\TipoDeTrianguloURI1045.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TipoDeTrianguloURI1045\TipoDeTrianguloURI1045\obj\Debug\net10.0\TipoDeTrianguloURI1045.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TipoDeTrianguloURI1045\TipoDeTrianguloURI1045\obj\Debug\net10.0\TipoDeTrianguloURI1045.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TipoDeTrianguloURI1045\TipoDeTrianguloURI1045\obj\Debug\net10.0\refint\TipoDeTrianguloURI1045.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TipoDeTrianguloURI1045\TipoDeTrianguloURI1045\obj\Debug\net10.0\TipoDeTrianguloURI1045.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TipoDeTrianguloURI1045\TipoDeTrianguloURI1045\obj\Debug\net10.0\TipoDeTrianguloURI1045.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TipoDeTrianguloURI1045\TipoDeTrianguloURI1045\obj\Debug\net10.0\ref\TipoDeTrianguloURI1045.dll

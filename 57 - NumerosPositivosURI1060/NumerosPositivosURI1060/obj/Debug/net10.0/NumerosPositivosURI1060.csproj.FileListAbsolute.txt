@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumerosPositivosURI1060\NumerosPositivosURI1060\obj\Debug\net10.0\NumerosPositivosURI1060.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumerosPositivosURI1060\NumerosPositivosURI1060\obj\Debug\net10.0\NumerosPositivosURI1060.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumerosPositivosURI1060\NumerosPositivosURI1060\obj\Debug\net10.0\NumerosPositivosURI1060.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumerosPositivosURI1060\NumerosPositivosURI1060\obj\Debug\net10.0\NumerosPositivosURI1060.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumerosPositivosURI1060\NumerosPositivosURI1060\bin\Debug\net10.0\NumerosPositivosURI1060.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumerosPositivosURI1060\NumerosPositivosURI1060\bin\Debug\net10.0\NumerosPositivosURI1060.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumerosPositivosURI1060\NumerosPositivosURI1060\bin\Debug\net10.0\NumerosPositivosURI1060.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumerosPositivosURI1060\NumerosPositivosURI1060\bin\Debug\net10.0\NumerosPositivosURI1060.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumerosPositivosURI1060\NumerosPositivosURI1060\bin\Debug\net10.0\NumerosPositivosURI1060.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumerosPositivosURI1060\NumerosPositivosURI1060\obj\Debug\net10.0\NumerosPositivosURI1060.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumerosPositivosURI1060\NumerosPositivosURI1060\obj\Debug\net10.0\refint\NumerosPositivosURI1060.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumerosPositivosURI1060\NumerosPositivosURI1060\obj\Debug\net10.0\NumerosPositivosURI1060.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumerosPositivosURI1060\NumerosPositivosURI1060\obj\Debug\net10.0\NumerosPositivosURI1060.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumerosPositivosURI1060\NumerosPositivosURI1060\obj\Debug\net10.0\ref\NumerosPositivosURI1060.dll

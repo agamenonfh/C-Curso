@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "TipoDeTrianguloURI1045/1.0.0": {
+        "runtime": {
+          "TipoDeTrianguloURI1045.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TipoDeTrianguloURI1045/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadradoDeParesURI1073\QuadradoDeParesURI1073\bin\Debug\net10.0\QuadradoDeParesURI1073.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadradoDeParesURI1073\QuadradoDeParesURI1073\bin\Debug\net10.0\QuadradoDeParesURI1073.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadradoDeParesURI1073\QuadradoDeParesURI1073\bin\Debug\net10.0\QuadradoDeParesURI1073.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadradoDeParesURI1073\QuadradoDeParesURI1073\bin\Debug\net10.0\QuadradoDeParesURI1073.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadradoDeParesURI1073\QuadradoDeParesURI1073\bin\Debug\net10.0\QuadradoDeParesURI1073.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadradoDeParesURI1073\QuadradoDeParesURI1073\obj\Debug\net10.0\QuadradoDeParesURI1073.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadradoDeParesURI1073\QuadradoDeParesURI1073\obj\Debug\net10.0\QuadradoDeParesURI1073.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadradoDeParesURI1073\QuadradoDeParesURI1073\obj\Debug\net10.0\QuadradoDeParesURI1073.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadradoDeParesURI1073\QuadradoDeParesURI1073\obj\Debug\net10.0\QuadradoDeParesURI1073.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadradoDeParesURI1073\QuadradoDeParesURI1073\obj\Debug\net10.0\QuadradoDeParesURI1073.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadradoDeParesURI1073\QuadradoDeParesURI1073\obj\Debug\net10.0\refint\QuadradoDeParesURI1073.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadradoDeParesURI1073\QuadradoDeParesURI1073\obj\Debug\net10.0\QuadradoDeParesURI1073.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadradoDeParesURI1073\QuadradoDeParesURI1073\obj\Debug\net10.0\QuadradoDeParesURI1073.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadradoDeParesURI1073\QuadradoDeParesURI1073\obj\Debug\net10.0\ref\QuadradoDeParesURI1073.dll

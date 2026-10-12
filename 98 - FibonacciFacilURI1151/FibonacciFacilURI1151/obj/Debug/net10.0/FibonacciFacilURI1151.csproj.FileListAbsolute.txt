@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FibonacciFacilURI1151\FibonacciFacilURI1151\bin\Debug\net10.0\FibonacciFacilURI1151.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FibonacciFacilURI1151\FibonacciFacilURI1151\bin\Debug\net10.0\FibonacciFacilURI1151.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FibonacciFacilURI1151\FibonacciFacilURI1151\bin\Debug\net10.0\FibonacciFacilURI1151.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FibonacciFacilURI1151\FibonacciFacilURI1151\bin\Debug\net10.0\FibonacciFacilURI1151.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FibonacciFacilURI1151\FibonacciFacilURI1151\bin\Debug\net10.0\FibonacciFacilURI1151.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FibonacciFacilURI1151\FibonacciFacilURI1151\obj\Debug\net10.0\FibonacciFacilURI1151.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FibonacciFacilURI1151\FibonacciFacilURI1151\obj\Debug\net10.0\FibonacciFacilURI1151.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FibonacciFacilURI1151\FibonacciFacilURI1151\obj\Debug\net10.0\FibonacciFacilURI1151.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FibonacciFacilURI1151\FibonacciFacilURI1151\obj\Debug\net10.0\FibonacciFacilURI1151.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FibonacciFacilURI1151\FibonacciFacilURI1151\obj\Debug\net10.0\FibonacciFacilURI1151.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FibonacciFacilURI1151\FibonacciFacilURI1151\obj\Debug\net10.0\refint\FibonacciFacilURI1151.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FibonacciFacilURI1151\FibonacciFacilURI1151\obj\Debug\net10.0\FibonacciFacilURI1151.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FibonacciFacilURI1151\FibonacciFacilURI1151\obj\Debug\net10.0\FibonacciFacilURI1151.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FibonacciFacilURI1151\FibonacciFacilURI1151\obj\Debug\net10.0\ref\FibonacciFacilURI1151.dll

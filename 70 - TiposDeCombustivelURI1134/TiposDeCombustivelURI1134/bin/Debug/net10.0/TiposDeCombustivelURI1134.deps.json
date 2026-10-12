@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "TiposDeCombustivelURI1134/1.0.0": {
+        "runtime": {
+          "TiposDeCombustivelURI1134.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TiposDeCombustivelURI1134/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

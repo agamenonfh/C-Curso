@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SistaxeOpcionalFOREACHVetores\SistaxeOpcionalFOREACHVetores\bin\Debug\net10.0\SistaxeOpcionalFOREACHVetores.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SistaxeOpcionalFOREACHVetores\SistaxeOpcionalFOREACHVetores\bin\Debug\net10.0\SistaxeOpcionalFOREACHVetores.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SistaxeOpcionalFOREACHVetores\SistaxeOpcionalFOREACHVetores\bin\Debug\net10.0\SistaxeOpcionalFOREACHVetores.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SistaxeOpcionalFOREACHVetores\SistaxeOpcionalFOREACHVetores\bin\Debug\net10.0\SistaxeOpcionalFOREACHVetores.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SistaxeOpcionalFOREACHVetores\SistaxeOpcionalFOREACHVetores\bin\Debug\net10.0\SistaxeOpcionalFOREACHVetores.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SistaxeOpcionalFOREACHVetores\SistaxeOpcionalFOREACHVetores\obj\Debug\net10.0\SistaxeOpcionalFOREACHVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SistaxeOpcionalFOREACHVetores\SistaxeOpcionalFOREACHVetores\obj\Debug\net10.0\SistaxeOpcionalFOREACHVetores.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SistaxeOpcionalFOREACHVetores\SistaxeOpcionalFOREACHVetores\obj\Debug\net10.0\SistaxeOpcionalFOREACHVetores.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SistaxeOpcionalFOREACHVetores\SistaxeOpcionalFOREACHVetores\obj\Debug\net10.0\SistaxeOpcionalFOREACHVetores.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SistaxeOpcionalFOREACHVetores\SistaxeOpcionalFOREACHVetores\obj\Debug\net10.0\SistaxeOpcionalFOREACHVetores.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SistaxeOpcionalFOREACHVetores\SistaxeOpcionalFOREACHVetores\obj\Debug\net10.0\refint\SistaxeOpcionalFOREACHVetores.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SistaxeOpcionalFOREACHVetores\SistaxeOpcionalFOREACHVetores\obj\Debug\net10.0\SistaxeOpcionalFOREACHVetores.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SistaxeOpcionalFOREACHVetores\SistaxeOpcionalFOREACHVetores\obj\Debug\net10.0\SistaxeOpcionalFOREACHVetores.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SistaxeOpcionalFOREACHVetores\SistaxeOpcionalFOREACHVetores\obj\Debug\net10.0\ref\SistaxeOpcionalFOREACHVetores.dll

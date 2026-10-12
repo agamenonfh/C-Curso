@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\PositivosEMediasURI1064\PositivosEMediasURI1064\bin\Debug\net10.0\PositivosEMediasURI1064.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\PositivosEMediasURI1064\PositivosEMediasURI1064\bin\Debug\net10.0\PositivosEMediasURI1064.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\PositivosEMediasURI1064\PositivosEMediasURI1064\bin\Debug\net10.0\PositivosEMediasURI1064.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\PositivosEMediasURI1064\PositivosEMediasURI1064\bin\Debug\net10.0\PositivosEMediasURI1064.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\PositivosEMediasURI1064\PositivosEMediasURI1064\bin\Debug\net10.0\PositivosEMediasURI1064.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\PositivosEMediasURI1064\PositivosEMediasURI1064\obj\Debug\net10.0\PositivosEMediasURI1064.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\PositivosEMediasURI1064\PositivosEMediasURI1064\obj\Debug\net10.0\PositivosEMediasURI1064.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\PositivosEMediasURI1064\PositivosEMediasURI1064\obj\Debug\net10.0\PositivosEMediasURI1064.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\PositivosEMediasURI1064\PositivosEMediasURI1064\obj\Debug\net10.0\PositivosEMediasURI1064.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\PositivosEMediasURI1064\PositivosEMediasURI1064\obj\Debug\net10.0\PositivosEMediasURI1064.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\PositivosEMediasURI1064\PositivosEMediasURI1064\obj\Debug\net10.0\refint\PositivosEMediasURI1064.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\PositivosEMediasURI1064\PositivosEMediasURI1064\obj\Debug\net10.0\PositivosEMediasURI1064.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\PositivosEMediasURI1064\PositivosEMediasURI1064\obj\Debug\net10.0\PositivosEMediasURI1064.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\PositivosEMediasURI1064\PositivosEMediasURI1064\obj\Debug\net10.0\ref\PositivosEMediasURI1064.dll

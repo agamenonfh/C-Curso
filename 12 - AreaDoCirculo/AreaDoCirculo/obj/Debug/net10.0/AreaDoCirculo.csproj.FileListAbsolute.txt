@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AreaDoCirculo\AreaDoCirculo\bin\Debug\net10.0\AreaDoCirculo.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AreaDoCirculo\AreaDoCirculo\bin\Debug\net10.0\AreaDoCirculo.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AreaDoCirculo\AreaDoCirculo\bin\Debug\net10.0\AreaDoCirculo.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AreaDoCirculo\AreaDoCirculo\bin\Debug\net10.0\AreaDoCirculo.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AreaDoCirculo\AreaDoCirculo\bin\Debug\net10.0\AreaDoCirculo.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AreaDoCirculo\AreaDoCirculo\obj\Debug\net10.0\AreaDoCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AreaDoCirculo\AreaDoCirculo\obj\Debug\net10.0\AreaDoCirculo.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AreaDoCirculo\AreaDoCirculo\obj\Debug\net10.0\AreaDoCirculo.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AreaDoCirculo\AreaDoCirculo\obj\Debug\net10.0\AreaDoCirculo.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AreaDoCirculo\AreaDoCirculo\obj\Debug\net10.0\AreaDoCirculo.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AreaDoCirculo\AreaDoCirculo\obj\Debug\net10.0\refint\AreaDoCirculo.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AreaDoCirculo\AreaDoCirculo\obj\Debug\net10.0\AreaDoCirculo.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AreaDoCirculo\AreaDoCirculo\obj\Debug\net10.0\AreaDoCirculo.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\AreaDoCirculo\AreaDoCirculo\obj\Debug\net10.0\ref\AreaDoCirculo.dll

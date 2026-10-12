@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EstruturaRepetiviaPARA\EstruturaRepetiviaPARA\bin\Debug\net10.0\EstruturaRepetiviaPARA.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EstruturaRepetiviaPARA\EstruturaRepetiviaPARA\bin\Debug\net10.0\EstruturaRepetiviaPARA.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EstruturaRepetiviaPARA\EstruturaRepetiviaPARA\bin\Debug\net10.0\EstruturaRepetiviaPARA.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EstruturaRepetiviaPARA\EstruturaRepetiviaPARA\bin\Debug\net10.0\EstruturaRepetiviaPARA.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EstruturaRepetiviaPARA\EstruturaRepetiviaPARA\bin\Debug\net10.0\EstruturaRepetiviaPARA.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EstruturaRepetiviaPARA\EstruturaRepetiviaPARA\obj\Debug\net10.0\EstruturaRepetiviaPARA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EstruturaRepetiviaPARA\EstruturaRepetiviaPARA\obj\Debug\net10.0\EstruturaRepetiviaPARA.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EstruturaRepetiviaPARA\EstruturaRepetiviaPARA\obj\Debug\net10.0\EstruturaRepetiviaPARA.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EstruturaRepetiviaPARA\EstruturaRepetiviaPARA\obj\Debug\net10.0\EstruturaRepetiviaPARA.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EstruturaRepetiviaPARA\EstruturaRepetiviaPARA\obj\Debug\net10.0\EstruturaRepetiviaPARA.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EstruturaRepetiviaPARA\EstruturaRepetiviaPARA\obj\Debug\net10.0\refint\EstruturaRepetiviaPARA.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EstruturaRepetiviaPARA\EstruturaRepetiviaPARA\obj\Debug\net10.0\EstruturaRepetiviaPARA.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EstruturaRepetiviaPARA\EstruturaRepetiviaPARA\obj\Debug\net10.0\EstruturaRepetiviaPARA.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\EstruturaRepetiviaPARA\EstruturaRepetiviaPARA\obj\Debug\net10.0\ref\EstruturaRepetiviaPARA.dll

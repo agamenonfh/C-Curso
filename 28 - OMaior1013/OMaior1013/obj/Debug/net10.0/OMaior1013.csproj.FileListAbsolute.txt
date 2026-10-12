@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\OMaior1013\OMaior1013\bin\Debug\net10.0\OMaior1013.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\OMaior1013\OMaior1013\bin\Debug\net10.0\OMaior1013.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\OMaior1013\OMaior1013\bin\Debug\net10.0\OMaior1013.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\OMaior1013\OMaior1013\bin\Debug\net10.0\OMaior1013.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\OMaior1013\OMaior1013\bin\Debug\net10.0\OMaior1013.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\OMaior1013\OMaior1013\obj\Debug\net10.0\OMaior1013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\OMaior1013\OMaior1013\obj\Debug\net10.0\OMaior1013.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\OMaior1013\OMaior1013\obj\Debug\net10.0\OMaior1013.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\OMaior1013\OMaior1013\obj\Debug\net10.0\OMaior1013.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\OMaior1013\OMaior1013\obj\Debug\net10.0\OMaior1013.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\OMaior1013\OMaior1013\obj\Debug\net10.0\refint\OMaior1013.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\OMaior1013\OMaior1013\obj\Debug\net10.0\OMaior1013.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\OMaior1013\OMaior1013\obj\Debug\net10.0\OMaior1013.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\OMaior1013\OMaior1013\obj\Debug\net10.0\ref\OMaior1013.dll

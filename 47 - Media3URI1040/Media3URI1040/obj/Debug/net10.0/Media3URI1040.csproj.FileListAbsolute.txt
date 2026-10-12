@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Media3URI1040\Media3URI1040\bin\Debug\net10.0\Media3URI1040.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Media3URI1040\Media3URI1040\bin\Debug\net10.0\Media3URI1040.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Media3URI1040\Media3URI1040\bin\Debug\net10.0\Media3URI1040.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Media3URI1040\Media3URI1040\bin\Debug\net10.0\Media3URI1040.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Media3URI1040\Media3URI1040\bin\Debug\net10.0\Media3URI1040.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Media3URI1040\Media3URI1040\obj\Debug\net10.0\Media3URI1040.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Media3URI1040\Media3URI1040\obj\Debug\net10.0\Media3URI1040.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Media3URI1040\Media3URI1040\obj\Debug\net10.0\Media3URI1040.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Media3URI1040\Media3URI1040\obj\Debug\net10.0\Media3URI1040.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Media3URI1040\Media3URI1040\obj\Debug\net10.0\Media3URI1040.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Media3URI1040\Media3URI1040\obj\Debug\net10.0\refint\Media3URI1040.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Media3URI1040\Media3URI1040\obj\Debug\net10.0\Media3URI1040.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Media3URI1040\Media3URI1040\obj\Debug\net10.0\Media3URI1040.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Media3URI1040\Media3URI1040\obj\Debug\net10.0\ref\Media3URI1040.dll

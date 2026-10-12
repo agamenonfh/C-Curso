@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\GrenaisURI1131\GrenaisURI1131\bin\Debug\net10.0\GrenaisURI1131.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\GrenaisURI1131\GrenaisURI1131\bin\Debug\net10.0\GrenaisURI1131.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\GrenaisURI1131\GrenaisURI1131\bin\Debug\net10.0\GrenaisURI1131.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\GrenaisURI1131\GrenaisURI1131\bin\Debug\net10.0\GrenaisURI1131.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\GrenaisURI1131\GrenaisURI1131\bin\Debug\net10.0\GrenaisURI1131.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\GrenaisURI1131\GrenaisURI1131\obj\Debug\net10.0\GrenaisURI1131.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\GrenaisURI1131\GrenaisURI1131\obj\Debug\net10.0\GrenaisURI1131.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\GrenaisURI1131\GrenaisURI1131\obj\Debug\net10.0\GrenaisURI1131.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\GrenaisURI1131\GrenaisURI1131\obj\Debug\net10.0\GrenaisURI1131.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\GrenaisURI1131\GrenaisURI1131\obj\Debug\net10.0\GrenaisURI1131.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\GrenaisURI1131\GrenaisURI1131\obj\Debug\net10.0\refint\GrenaisURI1131.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\GrenaisURI1131\GrenaisURI1131\obj\Debug\net10.0\GrenaisURI1131.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\GrenaisURI1131\GrenaisURI1131\obj\Debug\net10.0\GrenaisURI1131.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\GrenaisURI1131\GrenaisURI1131\obj\Debug\net10.0\ref\GrenaisURI1131.dll

@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ProcessamentoDeDadosEmC#\ProcessamentoDeDadosEmC#\bin\Debug\net10.0\ProcessamentoDeDadosECastingEmC#.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ProcessamentoDeDadosEmC#\ProcessamentoDeDadosEmC#\bin\Debug\net10.0\ProcessamentoDeDadosECastingEmC#.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ProcessamentoDeDadosEmC#\ProcessamentoDeDadosEmC#\bin\Debug\net10.0\ProcessamentoDeDadosECastingEmC#.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ProcessamentoDeDadosEmC#\ProcessamentoDeDadosEmC#\bin\Debug\net10.0\ProcessamentoDeDadosECastingEmC#.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ProcessamentoDeDadosEmC#\ProcessamentoDeDadosEmC#\bin\Debug\net10.0\ProcessamentoDeDadosECastingEmC#.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ProcessamentoDeDadosEmC#\ProcessamentoDeDadosEmC#\obj\Debug\net10.0\ProcessamentoDeDadosECastingEmC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ProcessamentoDeDadosEmC#\ProcessamentoDeDadosEmC#\obj\Debug\net10.0\ProcessamentoDeDadosECastingEmC#.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ProcessamentoDeDadosEmC#\ProcessamentoDeDadosEmC#\obj\Debug\net10.0\ProcessamentoDeDadosECastingEmC#.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ProcessamentoDeDadosEmC#\ProcessamentoDeDadosEmC#\obj\Debug\net10.0\ProcessamentoDeDadosECastingEmC#.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ProcessamentoDeDadosEmC#\ProcessamentoDeDadosEmC#\obj\Debug\net10.0\ProcessamentoDeDadosECastingEmC#.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ProcessamentoDeDadosEmC#\ProcessamentoDeDadosEmC#\obj\Debug\net10.0\refint\ProcessamentoDeDadosECastingEmC#.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ProcessamentoDeDadosEmC#\ProcessamentoDeDadosEmC#\obj\Debug\net10.0\ProcessamentoDeDadosECastingEmC#.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ProcessamentoDeDadosEmC#\ProcessamentoDeDadosEmC#\obj\Debug\net10.0\ProcessamentoDeDadosECastingEmC#.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ProcessamentoDeDadosEmC#\ProcessamentoDeDadosEmC#\obj\Debug\net10.0\ref\ProcessamentoDeDadosECastingEmC#.dll

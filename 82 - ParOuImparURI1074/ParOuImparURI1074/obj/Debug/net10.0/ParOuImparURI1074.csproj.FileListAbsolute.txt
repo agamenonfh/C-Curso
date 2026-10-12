@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ParOuImparURI1074\ParOuImparURI1074\bin\Debug\net10.0\ParOuImparURI1074.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ParOuImparURI1074\ParOuImparURI1074\bin\Debug\net10.0\ParOuImparURI1074.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ParOuImparURI1074\ParOuImparURI1074\bin\Debug\net10.0\ParOuImparURI1074.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ParOuImparURI1074\ParOuImparURI1074\bin\Debug\net10.0\ParOuImparURI1074.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ParOuImparURI1074\ParOuImparURI1074\bin\Debug\net10.0\ParOuImparURI1074.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ParOuImparURI1074\ParOuImparURI1074\obj\Debug\net10.0\ParOuImparURI1074.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ParOuImparURI1074\ParOuImparURI1074\obj\Debug\net10.0\ParOuImparURI1074.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ParOuImparURI1074\ParOuImparURI1074\obj\Debug\net10.0\ParOuImparURI1074.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ParOuImparURI1074\ParOuImparURI1074\obj\Debug\net10.0\ParOuImparURI1074.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ParOuImparURI1074\ParOuImparURI1074\obj\Debug\net10.0\ParOuImparURI1074.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ParOuImparURI1074\ParOuImparURI1074\obj\Debug\net10.0\refint\ParOuImparURI1074.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ParOuImparURI1074\ParOuImparURI1074\obj\Debug\net10.0\ParOuImparURI1074.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ParOuImparURI1074\ParOuImparURI1074\obj\Debug\net10.0\ParOuImparURI1074.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ParOuImparURI1074\ParOuImparURI1074\obj\Debug\net10.0\ref\ParOuImparURI1074.dll

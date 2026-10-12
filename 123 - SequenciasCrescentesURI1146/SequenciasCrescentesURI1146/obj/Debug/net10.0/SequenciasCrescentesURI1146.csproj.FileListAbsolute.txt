@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciasCrescentesURI1146\SequenciasCrescentesURI1146\bin\Debug\net10.0\SequenciasCrescentesURI1146.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciasCrescentesURI1146\SequenciasCrescentesURI1146\bin\Debug\net10.0\SequenciasCrescentesURI1146.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciasCrescentesURI1146\SequenciasCrescentesURI1146\bin\Debug\net10.0\SequenciasCrescentesURI1146.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciasCrescentesURI1146\SequenciasCrescentesURI1146\bin\Debug\net10.0\SequenciasCrescentesURI1146.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciasCrescentesURI1146\SequenciasCrescentesURI1146\bin\Debug\net10.0\SequenciasCrescentesURI1146.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciasCrescentesURI1146\SequenciasCrescentesURI1146\obj\Debug\net10.0\SequenciasCrescentesURI1146.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciasCrescentesURI1146\SequenciasCrescentesURI1146\obj\Debug\net10.0\SequenciasCrescentesURI1146.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciasCrescentesURI1146\SequenciasCrescentesURI1146\obj\Debug\net10.0\SequenciasCrescentesURI1146.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciasCrescentesURI1146\SequenciasCrescentesURI1146\obj\Debug\net10.0\SequenciasCrescentesURI1146.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciasCrescentesURI1146\SequenciasCrescentesURI1146\obj\Debug\net10.0\SequenciasCrescentesURI1146.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciasCrescentesURI1146\SequenciasCrescentesURI1146\obj\Debug\net10.0\refint\SequenciasCrescentesURI1146.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciasCrescentesURI1146\SequenciasCrescentesURI1146\obj\Debug\net10.0\SequenciasCrescentesURI1146.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciasCrescentesURI1146\SequenciasCrescentesURI1146\obj\Debug\net10.0\SequenciasCrescentesURI1146.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciasCrescentesURI1146\SequenciasCrescentesURI1146\obj\Debug\net10.0\ref\SequenciasCrescentesURI1146.dll

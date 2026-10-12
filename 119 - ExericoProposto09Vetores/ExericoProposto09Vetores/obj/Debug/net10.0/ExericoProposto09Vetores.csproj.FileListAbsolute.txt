@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExericoProposto09Vetores\ExericoProposto09Vetores\bin\Debug\net10.0\ExericoProposto09Vetores.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExericoProposto09Vetores\ExericoProposto09Vetores\bin\Debug\net10.0\ExericoProposto09Vetores.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExericoProposto09Vetores\ExericoProposto09Vetores\bin\Debug\net10.0\ExericoProposto09Vetores.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExericoProposto09Vetores\ExericoProposto09Vetores\bin\Debug\net10.0\ExericoProposto09Vetores.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExericoProposto09Vetores\ExericoProposto09Vetores\bin\Debug\net10.0\ExericoProposto09Vetores.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExericoProposto09Vetores\ExericoProposto09Vetores\obj\Debug\net10.0\ExericoProposto09Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExericoProposto09Vetores\ExericoProposto09Vetores\obj\Debug\net10.0\ExericoProposto09Vetores.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExericoProposto09Vetores\ExericoProposto09Vetores\obj\Debug\net10.0\ExericoProposto09Vetores.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExericoProposto09Vetores\ExericoProposto09Vetores\obj\Debug\net10.0\ExericoProposto09Vetores.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExericoProposto09Vetores\ExericoProposto09Vetores\obj\Debug\net10.0\ExericoProposto09Vetores.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExericoProposto09Vetores\ExericoProposto09Vetores\obj\Debug\net10.0\refint\ExericoProposto09Vetores.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExericoProposto09Vetores\ExericoProposto09Vetores\obj\Debug\net10.0\ExericoProposto09Vetores.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExericoProposto09Vetores\ExericoProposto09Vetores\obj\Debug\net10.0\ExericoProposto09Vetores.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\ExericoProposto09Vetores\ExericoProposto09Vetores\obj\Debug\net10.0\ref\ExericoProposto09Vetores.dll

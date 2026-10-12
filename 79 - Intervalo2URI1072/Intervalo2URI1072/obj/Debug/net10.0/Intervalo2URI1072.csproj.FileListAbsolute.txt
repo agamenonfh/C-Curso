@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Intervalo2URI1072\Intervalo2URI1072\bin\Debug\net10.0\Intervalo2URI1072.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Intervalo2URI1072\Intervalo2URI1072\bin\Debug\net10.0\Intervalo2URI1072.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Intervalo2URI1072\Intervalo2URI1072\bin\Debug\net10.0\Intervalo2URI1072.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Intervalo2URI1072\Intervalo2URI1072\bin\Debug\net10.0\Intervalo2URI1072.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Intervalo2URI1072\Intervalo2URI1072\bin\Debug\net10.0\Intervalo2URI1072.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Intervalo2URI1072\Intervalo2URI1072\obj\Debug\net10.0\Intervalo2URI1072.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Intervalo2URI1072\Intervalo2URI1072\obj\Debug\net10.0\Intervalo2URI1072.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Intervalo2URI1072\Intervalo2URI1072\obj\Debug\net10.0\Intervalo2URI1072.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Intervalo2URI1072\Intervalo2URI1072\obj\Debug\net10.0\Intervalo2URI1072.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Intervalo2URI1072\Intervalo2URI1072\obj\Debug\net10.0\Intervalo2URI1072.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Intervalo2URI1072\Intervalo2URI1072\obj\Debug\net10.0\refint\Intervalo2URI1072.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Intervalo2URI1072\Intervalo2URI1072\obj\Debug\net10.0\Intervalo2URI1072.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Intervalo2URI1072\Intervalo2URI1072\obj\Debug\net10.0\Intervalo2URI1072.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Intervalo2URI1072\Intervalo2URI1072\obj\Debug\net10.0\ref\Intervalo2URI1072.dll

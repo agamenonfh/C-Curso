@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadradoEAoCUBOURI1143\QuadradoEAoCUBOURI1143\bin\Debug\net10.0\QuadradoEAoCUBOURI1143.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadradoEAoCUBOURI1143\QuadradoEAoCUBOURI1143\bin\Debug\net10.0\QuadradoEAoCUBOURI1143.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadradoEAoCUBOURI1143\QuadradoEAoCUBOURI1143\bin\Debug\net10.0\QuadradoEAoCUBOURI1143.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadradoEAoCUBOURI1143\QuadradoEAoCUBOURI1143\bin\Debug\net10.0\QuadradoEAoCUBOURI1143.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadradoEAoCUBOURI1143\QuadradoEAoCUBOURI1143\bin\Debug\net10.0\QuadradoEAoCUBOURI1143.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadradoEAoCUBOURI1143\QuadradoEAoCUBOURI1143\obj\Debug\net10.0\QuadradoEAoCUBOURI1143.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadradoEAoCUBOURI1143\QuadradoEAoCUBOURI1143\obj\Debug\net10.0\QuadradoEAoCUBOURI1143.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadradoEAoCUBOURI1143\QuadradoEAoCUBOURI1143\obj\Debug\net10.0\QuadradoEAoCUBOURI1143.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadradoEAoCUBOURI1143\QuadradoEAoCUBOURI1143\obj\Debug\net10.0\QuadradoEAoCUBOURI1143.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadradoEAoCUBOURI1143\QuadradoEAoCUBOURI1143\obj\Debug\net10.0\QuadradoEAoCUBOURI1143.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadradoEAoCUBOURI1143\QuadradoEAoCUBOURI1143\obj\Debug\net10.0\refint\QuadradoEAoCUBOURI1143.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadradoEAoCUBOURI1143\QuadradoEAoCUBOURI1143\obj\Debug\net10.0\QuadradoEAoCUBOURI1143.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadradoEAoCUBOURI1143\QuadradoEAoCUBOURI1143\obj\Debug\net10.0\QuadradoEAoCUBOURI1143.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\QuadradoEAoCUBOURI1143\QuadradoEAoCUBOURI1143\obj\Debug\net10.0\ref\QuadradoEAoCUBOURI1143.dll

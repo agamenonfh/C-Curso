@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NotasEMoedas1021\NotasEMoedas1021\bin\Debug\net10.0\NotasEMoedas1021.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NotasEMoedas1021\NotasEMoedas1021\bin\Debug\net10.0\NotasEMoedas1021.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NotasEMoedas1021\NotasEMoedas1021\bin\Debug\net10.0\NotasEMoedas1021.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NotasEMoedas1021\NotasEMoedas1021\bin\Debug\net10.0\NotasEMoedas1021.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NotasEMoedas1021\NotasEMoedas1021\bin\Debug\net10.0\NotasEMoedas1021.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NotasEMoedas1021\NotasEMoedas1021\obj\Debug\net10.0\NotasEMoedas1021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NotasEMoedas1021\NotasEMoedas1021\obj\Debug\net10.0\NotasEMoedas1021.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NotasEMoedas1021\NotasEMoedas1021\obj\Debug\net10.0\NotasEMoedas1021.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NotasEMoedas1021\NotasEMoedas1021\obj\Debug\net10.0\NotasEMoedas1021.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NotasEMoedas1021\NotasEMoedas1021\obj\Debug\net10.0\NotasEMoedas1021.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NotasEMoedas1021\NotasEMoedas1021\obj\Debug\net10.0\refint\NotasEMoedas1021.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NotasEMoedas1021\NotasEMoedas1021\obj\Debug\net10.0\NotasEMoedas1021.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NotasEMoedas1021\NotasEMoedas1021\obj\Debug\net10.0\NotasEMoedas1021.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NotasEMoedas1021\NotasEMoedas1021\obj\Debug\net10.0\ref\NotasEMoedas1021.dll

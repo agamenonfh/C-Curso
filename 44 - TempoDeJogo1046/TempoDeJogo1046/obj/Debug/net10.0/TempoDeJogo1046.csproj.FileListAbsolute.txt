@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TempoDeJogo1046\TempoDeJogo1046\obj\Debug\net10.0\TempoDeJogo1046.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TempoDeJogo1046\TempoDeJogo1046\obj\Debug\net10.0\TempoDeJogo1046.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TempoDeJogo1046\TempoDeJogo1046\obj\Debug\net10.0\TempoDeJogo1046.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TempoDeJogo1046\TempoDeJogo1046\obj\Debug\net10.0\TempoDeJogo1046.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TempoDeJogo1046\TempoDeJogo1046\bin\Debug\net10.0\TempoDeJogo1046.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TempoDeJogo1046\TempoDeJogo1046\bin\Debug\net10.0\TempoDeJogo1046.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TempoDeJogo1046\TempoDeJogo1046\bin\Debug\net10.0\TempoDeJogo1046.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TempoDeJogo1046\TempoDeJogo1046\bin\Debug\net10.0\TempoDeJogo1046.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TempoDeJogo1046\TempoDeJogo1046\bin\Debug\net10.0\TempoDeJogo1046.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TempoDeJogo1046\TempoDeJogo1046\obj\Debug\net10.0\TempoDeJogo1046.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TempoDeJogo1046\TempoDeJogo1046\obj\Debug\net10.0\refint\TempoDeJogo1046.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TempoDeJogo1046\TempoDeJogo1046\obj\Debug\net10.0\TempoDeJogo1046.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TempoDeJogo1046\TempoDeJogo1046\obj\Debug\net10.0\TempoDeJogo1046.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\TempoDeJogo1046\TempoDeJogo1046\obj\Debug\net10.0\ref\TempoDeJogo1046.dll

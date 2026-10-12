@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FuncoesMatematiasEmC#\FuncoesMatematiasEmC#\bin\Debug\net10.0\FuncoesMatematiasEmC#.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FuncoesMatematiasEmC#\FuncoesMatematiasEmC#\bin\Debug\net10.0\FuncoesMatematiasEmC#.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FuncoesMatematiasEmC#\FuncoesMatematiasEmC#\bin\Debug\net10.0\FuncoesMatematiasEmC#.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FuncoesMatematiasEmC#\FuncoesMatematiasEmC#\bin\Debug\net10.0\FuncoesMatematiasEmC#.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FuncoesMatematiasEmC#\FuncoesMatematiasEmC#\bin\Debug\net10.0\FuncoesMatematiasEmC#.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FuncoesMatematiasEmC#\FuncoesMatematiasEmC#\obj\Debug\net10.0\FuncoesMatematiasEmC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FuncoesMatematiasEmC#\FuncoesMatematiasEmC#\obj\Debug\net10.0\FuncoesMatematiasEmC#.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FuncoesMatematiasEmC#\FuncoesMatematiasEmC#\obj\Debug\net10.0\FuncoesMatematiasEmC#.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FuncoesMatematiasEmC#\FuncoesMatematiasEmC#\obj\Debug\net10.0\FuncoesMatematiasEmC#.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FuncoesMatematiasEmC#\FuncoesMatematiasEmC#\obj\Debug\net10.0\FuncoesMatematiasEmC#.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FuncoesMatematiasEmC#\FuncoesMatematiasEmC#\obj\Debug\net10.0\refint\FuncoesMatematiasEmC#.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FuncoesMatematiasEmC#\FuncoesMatematiasEmC#\obj\Debug\net10.0\FuncoesMatematiasEmC#.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FuncoesMatematiasEmC#\FuncoesMatematiasEmC#\obj\Debug\net10.0\FuncoesMatematiasEmC#.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\FuncoesMatematiasEmC#\FuncoesMatematiasEmC#\obj\Debug\net10.0\ref\FuncoesMatematiasEmC#.dll

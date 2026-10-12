@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ImpostoDeRendaURI1051/1.0.0": {
+        "runtime": {
+          "ImpostoDeRendaURI1051.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ImpostoDeRendaURI1051/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

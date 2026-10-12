@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaLogicaURI1144\SequenciaLogicaURI1144\bin\Debug\net10.0\SequenciaLogicaURI1144.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaLogicaURI1144\SequenciaLogicaURI1144\bin\Debug\net10.0\SequenciaLogicaURI1144.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaLogicaURI1144\SequenciaLogicaURI1144\bin\Debug\net10.0\SequenciaLogicaURI1144.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaLogicaURI1144\SequenciaLogicaURI1144\bin\Debug\net10.0\SequenciaLogicaURI1144.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaLogicaURI1144\SequenciaLogicaURI1144\bin\Debug\net10.0\SequenciaLogicaURI1144.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaLogicaURI1144\SequenciaLogicaURI1144\obj\Debug\net10.0\SequenciaLogicaURI1144.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaLogicaURI1144\SequenciaLogicaURI1144\obj\Debug\net10.0\SequenciaLogicaURI1144.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaLogicaURI1144\SequenciaLogicaURI1144\obj\Debug\net10.0\SequenciaLogicaURI1144.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaLogicaURI1144\SequenciaLogicaURI1144\obj\Debug\net10.0\SequenciaLogicaURI1144.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaLogicaURI1144\SequenciaLogicaURI1144\obj\Debug\net10.0\SequenciaLogicaURI1144.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaLogicaURI1144\SequenciaLogicaURI1144\obj\Debug\net10.0\refint\SequenciaLogicaURI1144.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaLogicaURI1144\SequenciaLogicaURI1144\obj\Debug\net10.0\SequenciaLogicaURI1144.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaLogicaURI1144\SequenciaLogicaURI1144\obj\Debug\net10.0\SequenciaLogicaURI1144.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\SequenciaLogicaURI1144\SequenciaLogicaURI1144\obj\Debug\net10.0\ref\SequenciaLogicaURI1144.dll

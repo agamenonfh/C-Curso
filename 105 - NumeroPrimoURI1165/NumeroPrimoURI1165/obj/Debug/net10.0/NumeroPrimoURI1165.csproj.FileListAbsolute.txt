@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumeroPrimoURI1165\NumeroPrimoURI1165\bin\Debug\net10.0\NumeroPrimoURI1165.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumeroPrimoURI1165\NumeroPrimoURI1165\bin\Debug\net10.0\NumeroPrimoURI1165.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumeroPrimoURI1165\NumeroPrimoURI1165\bin\Debug\net10.0\NumeroPrimoURI1165.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumeroPrimoURI1165\NumeroPrimoURI1165\bin\Debug\net10.0\NumeroPrimoURI1165.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumeroPrimoURI1165\NumeroPrimoURI1165\bin\Debug\net10.0\NumeroPrimoURI1165.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumeroPrimoURI1165\NumeroPrimoURI1165\obj\Debug\net10.0\NumeroPrimoURI1165.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumeroPrimoURI1165\NumeroPrimoURI1165\obj\Debug\net10.0\NumeroPrimoURI1165.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumeroPrimoURI1165\NumeroPrimoURI1165\obj\Debug\net10.0\NumeroPrimoURI1165.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumeroPrimoURI1165\NumeroPrimoURI1165\obj\Debug\net10.0\NumeroPrimoURI1165.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumeroPrimoURI1165\NumeroPrimoURI1165\obj\Debug\net10.0\NumeroPrimoURI1165.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumeroPrimoURI1165\NumeroPrimoURI1165\obj\Debug\net10.0\refint\NumeroPrimoURI1165.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumeroPrimoURI1165\NumeroPrimoURI1165\obj\Debug\net10.0\NumeroPrimoURI1165.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumeroPrimoURI1165\NumeroPrimoURI1165\obj\Debug\net10.0\NumeroPrimoURI1165.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\NumeroPrimoURI1165\NumeroPrimoURI1165\obj\Debug\net10.0\ref\NumeroPrimoURI1165.dll

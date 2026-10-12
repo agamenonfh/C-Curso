@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Resto2URI1075\Resto2URI1075\bin\Debug\net10.0\Resto2URI1075.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Resto2URI1075\Resto2URI1075\bin\Debug\net10.0\Resto2URI1075.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Resto2URI1075\Resto2URI1075\bin\Debug\net10.0\Resto2URI1075.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Resto2URI1075\Resto2URI1075\bin\Debug\net10.0\Resto2URI1075.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Resto2URI1075\Resto2URI1075\bin\Debug\net10.0\Resto2URI1075.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Resto2URI1075\Resto2URI1075\obj\Debug\net10.0\Resto2URI1075.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Resto2URI1075\Resto2URI1075\obj\Debug\net10.0\Resto2URI1075.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Resto2URI1075\Resto2URI1075\obj\Debug\net10.0\Resto2URI1075.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Resto2URI1075\Resto2URI1075\obj\Debug\net10.0\Resto2URI1075.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Resto2URI1075\Resto2URI1075\obj\Debug\net10.0\Resto2URI1075.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Resto2URI1075\Resto2URI1075\obj\Debug\net10.0\refint\Resto2URI1075.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Resto2URI1075\Resto2URI1075\obj\Debug\net10.0\Resto2URI1075.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Resto2URI1075\Resto2URI1075\obj\Debug\net10.0\Resto2URI1075.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Resto2URI1075\Resto2URI1075\obj\Debug\net10.0\ref\Resto2URI1075.dll

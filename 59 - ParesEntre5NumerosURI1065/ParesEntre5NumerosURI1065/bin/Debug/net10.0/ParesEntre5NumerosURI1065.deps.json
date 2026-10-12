@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ParesEntre5NumerosURI1065/1.0.0": {
+        "runtime": {
+          "ParesEntre5NumerosURI1065.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParesEntre5NumerosURI1065/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

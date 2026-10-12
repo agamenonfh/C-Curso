@@ -1,0 +1,14 @@
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Distancia\Distancia\bin\Debug\net10.0\Distancia.exe
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Distancia\Distancia\bin\Debug\net10.0\Distancia.deps.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Distancia\Distancia\bin\Debug\net10.0\Distancia.runtimeconfig.json
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Distancia\Distancia\bin\Debug\net10.0\Distancia.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Distancia\Distancia\bin\Debug\net10.0\Distancia.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Distancia\Distancia\obj\Debug\net10.0\Distancia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Distancia\Distancia\obj\Debug\net10.0\Distancia.AssemblyInfoInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Distancia\Distancia\obj\Debug\net10.0\Distancia.AssemblyInfo.cs
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Distancia\Distancia\obj\Debug\net10.0\Distancia.csproj.CoreCompileInputs.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Distancia\Distancia\obj\Debug\net10.0\Distancia.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Distancia\Distancia\obj\Debug\net10.0\refint\Distancia.dll
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Distancia\Distancia\obj\Debug\net10.0\Distancia.pdb
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Distancia\Distancia\obj\Debug\net10.0\Distancia.genruntimeconfig.cache
+C:\Users\agame\Desktop\backup notebook huawei\unidade D\Agamenon\C# Curso\Distancia\Distancia\obj\Debug\net10.0\ref\Distancia.dll
