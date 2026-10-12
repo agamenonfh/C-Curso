@@ -1,0 +1,8 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+*.ps -diff
+diff.*.binary
+[diff "ps"]
+  textconv = ps2ascii
+  binary = true
+
